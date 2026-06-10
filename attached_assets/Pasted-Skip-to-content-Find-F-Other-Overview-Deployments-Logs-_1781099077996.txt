@@ -1,0 +1,121 @@
+Skip to content
+
+Find…
+F
+Other
+Overview
+Deployments
+Logs
+Analytics
+Speed Insights
+Observability
+Firewall
+CDN
+Environment Variables
+Domains
+Connect
+Beta
+Integrations
+Storage
+Flags
+Agent
+AI Gateway
+Sandboxes
+Workflows
+Usage
+Support
+Settings
+
+Avatar for johnpaul965
+johnpaul965
+
+
+Deployments
+ACnXQwocY
+
+Deployment
+Logs
+Resources
+Source
+Open Graph
+Deployment Details
+Build Failed
+Command "npm run build" exited with 1
+Created
+johnpaul965 Avatar
+johnpaul965
+20m ago
+Status
+Error
+Latest
+Duration
+15s
+20m ago
+Environment
+Production
+Domains
+mlbb-guide-ph-git-main-johnpaul965s-projects.vercel.app
+mlbb-guide-pgfyzy6lw-johnpaul965s-projects.vercel.app
+Source
+main
+f7de11e
+second commit — MLBB Guide PH
+
+Deployment Settings
+3 Recommendations
+Build Logs
+15s
+139 lines
+
+2
+
+1
+Find in logs
+CtrlF
+21:24:34.405 
+      at Module.require (node:internal/modules/cjs/loader:1576:12)
+21:24:34.405 
+      at require (node:internal/modules/helpers:153:16)
+21:24:34.405 
+      at requireWithFriendlyError (/vercel/path0/node_modules/.pnpm/rollup@4.61.1/node_modules/rollup/dist/native.js:103:10)
+21:24:34.405 
+      at Object.<anonymous> (/vercel/path0/node_modules/.pnpm/rollup@4.61.1/node_modules/rollup/dist/native.js:130:76) {
+21:24:34.405 
+    code: 'MODULE_NOT_FOUND',
+21:24:34.405 
+    requireStack: [
+21:24:34.405 
+      '/vercel/path0/node_modules/.pnpm/rollup@4.61.1/node_modules/rollup/dist/native.js'
+21:24:34.405 
+    ]
+21:24:34.405 
+  }
+21:24:34.405 
+}
+21:24:34.406 
+21:24:34.406 
+Node.js v24.15.0
+21:24:34.427 
+Error: Command "npm run build" exited with 1
+Deployment Summary
+Deployment Checks
+Assigning Custom Domains
+Runtime Logs
+
+View and debug runtime logs & errors
+
+Observability
+
+Monitor app health & performance
+
+Speed Insights
+
+Not Enabled
+Performance metrics from real users
+
+Web Analytics
+
+Not Enabled
+Analyze visitors & traffic in real-time
+
+mlbb-guide-ph – Deployment Overview – Vercel

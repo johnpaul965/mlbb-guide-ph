@@ -1,0 +1,1 @@
+- [Season 40 research data](season40-data.md) — heroBuilds.ts now has 9 builds per hero (Core→Late Game) with BuildRatings; heroMeta.ts is new file with mechanics/analysis/emblems/spells/matchups/verdict for 26 research heroes.

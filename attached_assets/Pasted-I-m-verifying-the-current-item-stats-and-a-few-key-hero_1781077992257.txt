@@ -1,0 +1,35 @@
+I’m verifying the current item stats and a few key hero/item interactions so the ranking matches the live game rather than old shorthand.
+
+Thought for 1m 17s
+
+Adjusted for Patch 2.1.67a, the single strongest item combo in MLBB overall is still the physical Trinity: Demon Hunter Sword + Corrosion Scythe + Golden Staff. Golden Staff converts crit chance into attack speed and is explicitly best paired with DHS and Corrosion Scythe, so it is the most efficient universal on-hit package in the game right now.
+
+Your “Crit Trinity” needs a correction: Berserker’s Fury should not be paired with Golden Staff, because Golden Staff converts crit chance into attack speed, which wastes Berserker’s Fury’s crit-damage value. If you want a real crit trio, the cleaner core is Berserker’s Fury + Scarlet Phantom + Great Dragon Spear; Windtalker is more of a high-attack-speed / wave-clear crit flex than the best pure crit third slot.
+
+Strongest item combos, ranked
+Trinity — DHS + Corrosion Scythe + Golden Staff
+Best overall because it solves the two things physical carries care about most in modern games: HP shred and attack-effect uptime. Golden Staff also turns crit investment into more attack speed, which is why the trio scales so well on heroes that rely on basic attacks and proc effects.
+Mage Burst Trio — Lightning Truncheon + Holy Crystal + Divine Glaive
+Best pure mage burst core. Lightning Truncheon is built for early burst, Holy Crystal gives the biggest magic power spike, and Divine Glaive is the anti-MR capstone.
+Survival Trinity — Oracle + Wind of Nature + Immortality
+Best anti-burst carry safety package. Oracle amplifies healing and shield value, Wind of Nature gives 2 seconds of physical immunity, and Immortality gives a second life for late-game margin.
+Pen Destroyer — DHS + Malefic Roar + Blade of Despair
+Best physical combo when the enemy stacks HP and armor. DHS punishes HP, Malefic Roar is the defense answer, and Blade of Despair turns the pen into kill pressure.
+Crit Core — Berserker’s Fury + Scarlet Phantom + Great Dragon Spear
+Best true crit trio for heroes that actually want crit scaling. Great Dragon Spear is the better “clean” crit third item when you do not need much attack speed; Windtalker is the more wave-clear / attack-speed-heavy alternative.
+Bruiser Core — War Axe + Endless Battle + Queen’s Wings
+Best sustained-fight fighter package. War Axe is one of the main sustained-combat items for fighters, Endless Battle adds skill-to-basic damage value, and Queen’s Wings gives a clutch damage reduction window when you get focused.
+Magic Sustain Set — Concentrated Energy + Oracle + Blood Wings
+Best sustain-mage package. Concentrated Energy is for mages who deal damage while staying in the fight, Oracle improves healing value, and Blood Wings adds power plus movement speed. This is for sustain mages, not pure burst mages.
+Quick adjustments to your original list
+
+Your Pen Destroyer is valid, but it is not the strongest overall combo in the game; it is the strongest anti-tank physical finisher.
+
+Your Mage Burst Trio is solid and still one of the best kill packages for burst mages. Holy Crystal is the biggest raw magic power spike, and Divine Glaive is the armor-piercer that makes the combo stay relevant when enemies start buying MR.
+
+Your Bruiser Core should usually be War Axe + Endless Battle + Queen’s Wings or Immortality, not Blade of Despair, unless you are specifically snowballing on a fighter-assassin hybrid. War Axe and Endless Battle are the real sustained-fight engine.
+
+If you want, I can turn this into a 
+clean, copy-paste tier list format with 
+S / A / B rankings, plus a 
+“best combo by role” version for Marksman, Mage, Fighter, Assassin, Tank, and Support.

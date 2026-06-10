@@ -1,0 +1,95 @@
+I checked the live item catalog and current patch references first. MLBBHub’s item database was updated on June 4, 2026 and lists **104 items** across **Attack, Magic, Defense, Movement, Jungling, and Roaming**; it also tags the live balance state as **Patch 2.1.67a**. The 2.1.67 patch itself added the Aulus revamp, changed Gold Lane marksmen, expanded **Dominance Ice**’s effect range, reworked **Starlium Scythe**, and buffed **Marksman Emblem** adaptive penetration. Earlier, patch 2.1.61 changed the Marksman Emblem’s lifesteal into adaptive penetration and slightly nerfed Fighter Emblem attack. ([MLBBHub][1])
+
+A full hero-by-hero matrix for the entire roster would be book-length, so the useful way to solve this is to extract the build law that works for every hero and then apply it by class, matchup, and win condition.
+
+## What winning builds actually do
+
+Winning builds do not maximize raw stats; they solve the next fight’s constraint with the cheapest item that fixes it. That is why **penetration** beats raw damage once enemies stack defenses, **anti-heal** appears the moment sustain matters, and **defensive timing** matters more than a third greedy damage slot. MLBB’s item system also punishes duplicate passives, so stacking two items that solve the same problem is often worse than buying one item that changes the fight. ([MLBBHub][1])
+
+## The 10 build archetypes
+
+**Core build.**
+Use this when you are building toward the hero’s intended power curve. For physical carries, the skeleton is boots → first spike → penetration → damage amp → defensive flex → finisher. For mages, it is boots → mana/CDR core → damage amp → magic pen → burst/scaling slot → safety slot. Early game is moderate, mid game is the first real spike, late game is stable if you survive to two completed items. Risk is medium. Win condition is simple: reach your first and second completed items without handing over shutdown gold. ([MLBBHub][1])
+
+**Standard build.**
+This is the “good in most games” version: enough damage to matter, enough defense to survive a hard commit. Physical examples usually want **Swift Boots / Tough Boots / Warrior Boots**, one sustain-or-skill item like **Endless Battle** or **War Axe**, then a pen item like **Malefic Roar** or **Hunter Strike**, then one flex defensive item like **Wind of Nature** or **Immortality**. Mages usually want **Magic Boots / Arcane Boots / Tough Boots**, one mana/CDR core such as **Enchanted Talisman**, then **Genius Wand / Lightning Truncheon / Holy Crystal**, then one safety slot. This build is the safest default for ranked. ([MLBBHub][1])
+
+**Snowball build.**
+Use this only when you are already ahead. The order becomes boots → immediate damage spike → kill-confirm item → more damage → optional defense if bounty exists. On physical heroes, that means things like **Blade of Despair**, **Malefic Gun / Malefic Roar**, or crit acceleration; on mages, it means **Holy Crystal**, **Lightning Truncheon**, or **Wishing Lantern**. Early game is high, mid game is explosive, late game is sometimes weaker than a balanced build if the lead gets reset. Risk is high. Win condition is to convert gold lead into turret plates, objectives, and vision denial before the enemy stabilizes. ([MLBBHub][1])
+
+**Late-game build.**
+This is greed with a purpose. You delay safety and buy multiplicative scaling: crit, pen, AP scaling, or HP-to-damage conversions. Examples include **Berserker’s Fury**, **Blade of Despair**, **Holy Crystal**, **Blood Wings**, **Divine Glaive**, and for some DPS heroes **Golden Staff** or **Demon Hunter Sword**. Early game is weak to average, mid game is acceptable, late game is elite if you reached full items. Risk is high. Win condition is reaching 3–4 items alive and turning one teamfight into an objective chain. ([MLBBHub][1])
+
+**Anti-tank build.**
+If the enemy frontline is real, you buy percentage damage or defense scaling. Physical answers are **Demon Hunter Sword**, **Malefic Roar**, sometimes **Sea Halberd** for sustain denial, and in certain hybrid kits **Thunder Belt** for repeated true damage. Magic answers are **Divine Glaive**, **Wishing Lantern**, or **Glowing Wand**. The reason this works is that flat damage stops scaling efficiently into armor and HP, while percent and penetration remain relevant. Early game is usually weaker than snowball builds, but mid and late game are much stronger against tank stacks. ([MLBBHub][1])
+
+**Anti-heal build.**
+Buy this the moment shields, regen, or lifesteal are deciding fights. Physical heroes use **Sea Halberd**; magic heroes use **Necklace of Durance**-type anti-heal logic through the current magic item set, and tanks/supports often solve the problem by forcing shorter, more controlled fights rather than trying to out-sustain. Against heal-heavy teams, this item is more valuable than a greed slot because it attacks the enemy’s win condition directly. Early game is modest, mid game is often the breakpoint, late game is mandatory in sustain metas. ([MLBBHub][1])
+
+**Defensive build.**
+This is not “tank only.” It is the correct response whenever death would delete your team’s only win condition. Physical defense is handled by **Antique Cuirass**, **Blade Armor**, **Warrior Boots**, and **Immortality**; magic defense by **Athena’s Shield** and **Radiant Armor**; hybrid or anti-dive by **Oracle**, **Thunder Belt**, **Queen’s Wings**, and **Winter Crown** on damage dealers who need one reset window. This build usually spikes later than damage builds, but it wins games by denying enemy burst windows. ([MLBBHub][1])
+
+**Professional play build.**
+Pro builds are usually utility-first. They accept less personal damage in exchange for better objective control, peel, and fight shape. That is why you see more **Dominance Ice**, **Oracle**, **Immortality**, **Flask of the Oasis**, **Fleeting Time**, and anti-dive spells. Pros can do this because the team coordinates around the item’s job; they do not need every slot to be selfish. Roaming Blessings and utility systems also matter more in coordinated play because they reward correct macro, not just scoreboard damage. ([mlbb.tools][2])
+
+**High-ELO build.**
+High-ELO builds are draft-sensitive. They look like the pro build, but with more room for greed when the matchup is favorable. This is where **Malefic Roar**, **Divine Glaive**, **Winter Crown**, **Wind of Nature**, and **Sea Halberd** show up as precision answers instead of autopilot staples. The spike timing matters more than the item name: a correct situational item on time beats a “best-in-slot” damage item bought too late. ([MLBBHub][1])
+
+**Solo queue build.**
+Solo queue rewards self-sufficiency, not ideal team composition. That means more self-peel, more escape, more mixed stats, and less dependence on being protected. The best solo builds often include **Wind of Nature**, **Immortality**, **Oracle**, **Winter Crown**, **Tough Boots**, and at least one item that gives movement or sustain. Your build should assume the enemy will dive you and your team may not peel at the correct moment. ([MLBBHub][1])
+
+## Item-category analysis
+
+**Physical damage.**
+The physical class is really three sub-systems: raw burst (**Blade of Despair**, **Berserker’s Fury**), percent/pen damage (**Malefic Roar**, **Demon Hunter Sword**, **Malefic Gun**), and uptime/survivability hybrids (**War Axe**, **Endless Battle**, **Hunter Strike**, **Rose Gold Meteor**). The reason these items persist is that they scale different hero patterns: assassins want conversion from one skill window, marksmen want repeated basics, and bruisers want mixed damage plus durability. **Demon Hunter Sword** is a tank shredder because 8% current HP on basic attacks is inherently anti-health-stack. **Malefic Roar** remains elite because its penetration scales with enemy physical defense, so it gets better as the enemy gets tankier. ([MLBBHub][1])
+
+**Magic damage.**
+Magic items split into burst, poke, sustain, and anti-frontline. **Holy Crystal** is the raw scaling machine, **Lightning Truncheon** is burst-on-cooldown, **Divine Glaive** is the anti-MR answer, **Genius Wand** is the “everyone is moderately tanky” shred tool, **Glowing Wand** is HP-based burn, **Wishing Lantern** is current-HP pressure, and **Flask of the Oasis / Fleeting Time** are fight-shaping support utilities. **Enchanted Talisman** and **Clock of Destiny** are the mana/CDR/stability pieces that let mages actually cast enough spells to matter. ([MLBBHub][1])
+
+**Defense.**
+Defense items are strongest when they stop the enemy’s primary damage type at the exact moment it matters. **Athena’s Shield** is best against a single heavy magic burst window; **Radiant Armor** is best when magic damage comes in repeated ticks; **Antique Cuirass** is the anti-skill physical answer; **Dominance Ice** is the anti-attack-speed and sustain aura; **Oracle** amplifies every shield and heal by 30%; **Immortality** converts a dead fight into a second life; **Thunder Belt** is one of the best hybrid defense items because it adds true damage and permanent scaling on top of HP and both defenses. **Queen’s Wings** and **Brute Force Breastplate** are bruiser items because they turn tankiness into uptime and kiting resistance. ([MLBBHub][1])
+
+**Sustain.**
+Sustain items are not “healing items”; they are “time-extenders.” **Oracle** makes shields and regen matter more. **Blood Wings** gives a huge shield plus mobility on magic builds. **Concentrated Energy**, **Haas’s Claws**, **Endless Battle**, **War Axe**, and **Feather of Heaven** all extend fight length by letting heroes stay on the map and keep casting or attacking. Sustain is strongest on heroes that can remain in combat long enough to convert healing into extra damage. ([MLBBHub][1])
+
+**Attack speed.**
+Attack speed is valuable only when the kit can convert it. That is why **Demon Hunter Sword**, **Corrosion Scythe**, **Golden Staff**, **Windtalker**, and **Feather of Heaven** are meta-defining on the correct heroes but mediocre on the wrong ones. The attack-speed system was already smoothed in earlier patches, which made every 1% matter, and later marksman changes further rewarded heroes that can keep hitting. If your hero does not have a reliable basic-attack loop, attack speed is often wasted gold. ([Reddit][3])
+
+**Critical.**
+Crit items are binary: they are insane on heroes that can scale crit into repeated output, and wasteful on heroes that cannot. **Berserker’s Fury**, **Windtalker**, **Great Dragon Spear**, **Haas’s Claws**, and crit-linked attack-speed conversion are best on marksmen and some fighters, but they are not the answer into tanks unless your crit can be protected long enough to matter. The current Marksman Emblem adaptive-penetration shift also pushes crit builds to think harder about whether they need pen earlier. ([MLBBHub][1])
+
+**Penetration.**
+Penetration is the meta’s hidden king because it scales with the enemy’s mistakes. **Malefic Roar** and **Divine Glaive** are the most important pen items in the game because they turn enemy defense purchases into less effective gold. **Genius Wand** is the best “soft pen” item because it makes the whole team’s follow-up stronger. After patch 2.1.61, the Marksman Emblem also moved toward adaptive penetration, which further signals that pen is the correct late-game identity for marksmen, not lifesteal. ([MLBBHub][1])
+
+**Utility.**
+Utility items win games that raw damage cannot. **Winter Crown** buys invulnerability time, **Fleeting Time** accelerates ult cycles after picks, **Flask of the Oasis** protects teammates at low HP, **Dominance Ice** shuts down attack speed and healers, **Conceal** creates engages, and **Favor / Encourage / Dire Hit** define roam identity. These items look weaker on a scoreboard and stronger in an actual teamfight. ([MLBBHub][1])
+
+**Roaming equipment.**
+Roam items are macro items, not stat items. **Conceal** is engage tempo, **Favor** is sustain support, **Encourage** is team DPS amplification, and **Dire Hit** is kill pressure. Patch 2.1.40 changed roaming blessing income rules so Conceal/Dire Hit reward hero damage instead of ally minion or creep kills, which made active play and proper rotations more important than passive leeching. ([MLBBHub][1])
+
+**Jungle equipment.**
+Jungle items are tempo engines. **Bloody Retribution** favors HP and duel sustain, **Flame Retribution** favors offensive stat theft, and **Ice Retribution** favors pick potential and stickiness. The best Retribution choice is determined by what the jungler needs to win the first 1–2 objective fights, not by habit. ([MLBBHub][1])
+
+## Build efficiency rankings
+
+My current rankings are:
+
+**Most efficient item in the game:** **Thunder Belt**. It gives HP, both defenses, a true-damage proc, a strong slow, and permanent hybrid-defense growth for a relatively modest cost, so it creates both tankiness and threat in one slot. ([MLBBHub][1])
+
+**Most overrated item:** **Blade of Despair** in average ranked play. It is excellent, but many players rush raw attack before they have solved penetration or survival, and that often buys less real damage than a cheaper utility or pen item would have. ([MLBBHub][1])
+
+**Most underrated item:** **Oracle**. The 30% shield/heal amplification is enormous on any hero with real self-sustain, but players underrate how often that multiplier outperforms a selfish damage slot. ([MLBBHub][1])
+
+**Strongest first completed item:** **War Axe** for bruisers and **Enchanted Talisman** for mana mages. One gives early fight presence plus stacking true damage; the other removes mana as a constraint and keeps the spell engine running. ([MLBBHub][1])
+
+**Strongest late-game item:** **Divine Glaive** for mages and **Malefic Roar** for physical damage. Late game is defense stacking, and these items convert enemy armor into a liability. ([MLBBHub][1])
+
+**Strongest situational item:** **Winter Crown**. When timed correctly, it can erase the enemy’s entire burst window and flip a lost fight. ([MLBBHub][1])
+
+**Strongest defensive item:** **Immortality**. A second life is often more valuable than any single resist number, especially in late-game objective fights. ([MLBBHub][1])
+
+**Strongest offensive item:** There is no single universal winner; the title splits by damage type. For physical burst it is usually **Blade of Despair**, while for anti-frontline magic it is **Divine Glaive**.
+
+[1]: https://mlbbhub.com/items "MLBB Items 2026: Full Item List, Stats & Recipes"
+[2]: https://mlbb.tools/patch-notes "MLBB Patch Notes — Latest Hero Buffs, Nerfs & Balance Changes | mlbb.tools"
+[3]: https://www.reddit.com/r/MobileLegendsGame/comments/1rqrm1e/patch_notes_2161_org_server/?utm_source=chatgpt.com "Patch Notes 2.1.61 - Org. Server : r/MobileLegendsGame"

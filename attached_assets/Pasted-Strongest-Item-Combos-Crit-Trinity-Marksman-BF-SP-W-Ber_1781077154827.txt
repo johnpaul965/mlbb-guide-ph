@@ -1,0 +1,79 @@
+Strongest Item Combos
+Crit Trinity
+Marksman
+BF
++
+SP
++
+W
+Berserker's Fury
+Scarlet Phantom
+Windtalker
+These three together cap your crit rate and maximize crit damage simultaneously. Each item feeds off the others — Scarlet Phantom raises attack speed after crit, Windtalker crits frequently to trigger it, and Berserker's Fury converts all of that into maximum damage per hit.
+
+When:Any crit marksman (Layla, Miya, Beatrix). Buy in this order for fastest spike.
+Pen Destroyer
+Physical Carry
+DH
++
+MR
++
+Bo
+Demon Hunter Sword
+Malefic Roar
+Blade of Despair
+The ultimate anti-tank combo. Demon Hunter Sword deals % HP damage, Malefic Roar ignores 40% of their armor, and Blade of Despair converts all that penetration into maximum burst. Together they make even the tankiest frontliner feel squishy.
+
+When:Enemy has 2+ real tanks or anyone stacking HP above 4000. The more they build, the better this gets.
+Mage Burst Trio
+Mage
+LT
++
+HC
++
+DG
+Lightning Truncheon
+Holy Crystal
+Divine Glaive
+Lightning Truncheon procs AoE bursts every few seconds. Holy Crystal amplifies all magic damage massively. Divine Glaive turns any amount of enemy MR into wasted gold. The result is magic burst that no item in the game can cost-effectively defend against.
+
+When:Any burst mage with fast skill rotations (Eudora, Vale, Lunox). Spike at item 2 and close games at item 3.
+Bruiser Core
+Fighter
+WA
++
+EB
++
+Bo
+War Axe
+Endless Battle
+Blade of Despair
+War Axe gives stacking true damage and CDR. Endless Battle adds true damage after every skill cast. Blade of Despair converts both into peak physical output. Together they create a sustained damage loop that never stops scaling through a fight.
+
+When:Skill-heavy fighters with basic attack integration (Chou, Paquito, Zilong). This is their identity combo.
+Survival Trinity
+Any Carry
+O
++
+Wo
++
+I
+Oracle
+Wind of Nature
+Immortality
+Oracle amplifies every shield and heal you receive by 30%. Wind of Nature gives you 2 seconds of full physical immunity on demand. Immortality gives you a full second life. Together they give a carry three separate safety windows — enough to survive even the most coordinated dives.
+
+When:Solo queue or when you are the only carry. Buy at least two of these three in any game where you keep dying.
+Magic Sustain Set
+Mage / Support
+CE
++
+O
++
+BW
+Concentrated Energy
+Oracle
+Blood Wings
+Concentrated Energy gives spell vamp so every skill heals you. Oracle then amplifies that spell vamp healing by 30%. Blood Wings converts your AP into a massive shield that constantly refreshes. All three extend fight duration by making it nearly impossible to burst down a mage who has them.
+
+When:Sustained mages in long teamfights (Chang'e, Cecilion, Pharsa). Not for assassin-style mages who want to burst and escape.

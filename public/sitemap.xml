@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://mlbb-guide-ph.vercel.app/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/heroes</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/tier-list</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/builds</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/counter-finder</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/draft-win</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/patch-notes</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/blog</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/blog/best-heroes-for-solo-rank-2025</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/blog/how-to-counter-fanny-mlbb</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/blog/mlbb-beginner-guide-2025</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/blog/best-marksman-mlbb-2025</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/about</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/contact</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://mlbb-guide-ph.vercel.app/privacy</loc><priority>0.4</priority><changefreq>yearly</changefreq></url>
+</urlset>

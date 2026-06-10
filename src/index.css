@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Rajdhani:wght@500;600;700&display=swap');
+@import "tailwindcss";
+@source not "../.local/**";
+
+@theme {
+  --font-sans: "Outfit", system-ui, sans-serif;
+  --font-display: "Rajdhani", system-ui, sans-serif;
+
+  --color-mlbb-bg: #F0F2F8;
+  --color-mlbb-card: #FFFFFF;
+  --color-mlbb-card-hover: #F8FAFC;
+  --color-mlbb-border: #DDE2EF;
+  --color-mlbb-accent: #E94560;
+  --color-mlbb-violet: #B44FFF;
+  --color-mlbb-cyan: #0099CC;
+  --color-mlbb-gold: #C9920A;
+
+  --color-role-tank: #4a9eff;
+  --color-role-fighter: #ff7a2a;
+  --color-role-assassin: #b44fff;
+  --color-role-marksman: #d4a017;
+  --color-role-mage: #0099cc;
+  --color-role-support: #00aa66;
+}
+
+:root {
+  --background: 225 30% 95%;
+  --foreground: 222 47% 11%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  --border: 220 20% 88%;
+  --input: 220 20% 88%;
+  --primary: 350 78% 59%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 274 100% 65%;
+  --secondary-foreground: 0 0% 100%;
+  --accent: 190 100% 40%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+  --ring: 350 78% 59%;
+}
+
+body {
+  background-color: var(--color-mlbb-bg);
+  color: hsl(var(--foreground));
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--color-mlbb-bg); }
+::-webkit-scrollbar-thumb { background: var(--color-mlbb-accent); border-radius: 3px; }
+
+.esports-gradient {
+  background: linear-gradient(135deg, var(--color-mlbb-accent), var(--color-mlbb-violet));
+}
+.esports-text-gradient {
+  background: linear-gradient(135deg, var(--color-mlbb-accent), var(--color-mlbb-violet));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.esports-border-gradient {
+  border: 1px solid transparent;
+  background-image: linear-gradient(var(--color-mlbb-card), var(--color-mlbb-card)),
+    linear-gradient(135deg, var(--color-mlbb-accent), var(--color-mlbb-violet));
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 50;
+  opacity: 0.02;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}

@@ -1,0 +1,2439 @@
+Current context: **Season 40, Patch 2.1.67a**. The live meta has been adjusted by the 2.1.67 marksman/battlefield changes, then the 2.1.67a hotfix trimmed and rebalanced carry/roam pools. I’m using that patch context plus each hero’s actual kit, not copying any standard build sheet. **Sora is a real MLBB hero**: the official site says he can ascend to **Thunder** or **Torrent** with his Ultimate and gains **Cloudstep** stacks after damaging heroes or summons; MLBBHub classifies him as a **Fighter/Assassin EXP-lane** hero. ([Liquipedia][1])
+
+---
+
+## 1) Fanny
+
+Fanny is the clearest blue-buff snowball assassin on this list. Officially, her cable damage scales with flying speed and her hits apply **Prey Mark**, so every build decision should either increase her first-catch damage or keep her alive long enough to take a second rotation. She is a **Jungle Assassin** and her mechanical ceiling is extreme. ([Mobile Legends][2])
+
+**Mechanics ratings**
+Damage 9 | Burst 10 | DPS 7 | Mobility 10 | Sustain 3 | Durability 4 | CC 1 | Teamfight 6 | Objective 7 | Split Push 8 | Carry 10 | Difficulty 10
+
+**Hero analysis**
+Role & best position: Jungle only.
+Lane priority: blue buff, then level 4 tempo.
+Win condition: get one early kill, convert it into Turtle control, then keep the map hostage.
+Strengths: fastest access, strongest pick pressure, best shutdown on immobile backlines.
+Weaknesses: anti-cable hard stops, energy dependence, high shutdown risk.
+Power spikes: level 4, first damage item, blue buff control, 2-item dive window.
+Scaling: Early 9 / Mid 10 / Late 7.
+Passive & skill synergy: faster flight means more damage and smoother Prey Mark conversion; movement speed and penetration are worth more than raw crit on her.
+
+**Builds**
+
+1. **Core** — Tough Boots > Blade of the Heptaseas > Malefic Roar > Hunter Strike > Blade of Despair > Immortality.
+   Heptaseas gives the best first-hit punish, Malefic Roar stops armor from deleting your cable combo, Hunter Strike fixes repositioning, BoD closes kills, and Immortality buys a second dive.
+   Ratings: Damage 9, Survivability 6, Teamfight 7, Consistency 8, Carry 10.
+
+2. **Max Damage** — Tough Boots > Blade of the Heptaseas > Sky Piercer > Malefic Roar > Blade of Despair > Hunter Strike.
+   This is the purest “one target disappears” setup; Sky Piercer makes your already-fatal entries even harder to survive.
+   Ratings: Damage 10, Survivability 3, Teamfight 5, Consistency 5, Carry 10.
+
+3. **Solo Queue** — Tough Boots > Blade of the Heptaseas > Hunter Strike > Malefic Roar > Queen’s Wings > Immortality.
+   Better than glass cannon when teammates do not draft for you; Queen’s Wings converts failed dives into survival.
+   Ratings: Damage 8, Survivability 8, Teamfight 7, Consistency 8, Carry 9.
+
+4. **Competitive** — Tough Boots > Hunter Strike > Malefic Roar > Queen’s Wings > Immortality > Blade of Despair.
+   Safer than greedy burst because coordinated teams punish shutdowns and force longer fights.
+   Ratings: Damage 8, Survivability 9, Teamfight 8, Consistency 9, Carry 8.
+
+5. **Anti-Tank** — Tough Boots > Hunter Strike > Malefic Roar > Sea Halberd > Blade of Despair > Immortality.
+   Sea Halberd matters when healing or giant HP pools are the real problem; it solves “I can reach them but cannot finish.”
+   Ratings: Damage 8, Survivability 6, Teamfight 7, Consistency 8, Carry 8.
+
+6. **Anti-Burst** — Tough Boots > Athena’s Shield > Queen’s Wings > Hunter Strike > Malefic Roar > Immortality.
+   Athena’s Shield is the best answer to getting erased before the cable reset.
+   Ratings: Damage 7, Survivability 10, Teamfight 7, Consistency 8, Carry 8.
+
+7. **Anti-CC** — Tough Boots > Brute Force Breastplate > Queen’s Wings > Rose Gold Meteor > Immortality > Malefic Roar.
+   This is not literal CC immunity, but it gives enough movement and layered bulk to survive the first lockdown window.
+   Ratings: Damage 7, Survivability 9, Teamfight 7, Consistency 7, Carry 7.
+
+8. **Snowball** — Tough Boots > Blade of the Heptaseas > Sky Piercer > Hunter Strike > Blade of Despair > Malefic Roar.
+   Best when you are already ahead and can protect stacks by ending fights instantly.
+   Ratings: Damage 10, Survivability 4, Teamfight 6, Consistency 6, Carry 10.
+
+9. **Late Game** — Tough Boots > Malefic Roar > Hunter Strike > Blade of Despair > Rose Gold Meteor > Immortality.
+   Late Fanny needs one defensive bridge and maximum pen; pure greed gets punished by one clean CC chain.
+   Ratings: Damage 8, Survivability 7, Teamfight 7, Consistency 8, Carry 8.
+
+**Emblems**
+
+1. **Assassin — Rupture / Master Assassin / Killing Spree**. Best overall.
+2. **Fighter — Firmness / Festival of Blood / Brave Smite**. Best defensive bruiser path.
+3. **Assassin — Rupture / Master Assassin / Lethal Ignition**. Best snowball burst path.
+
+Best Overall Emblem: Assassin.
+Aggressive Emblem: Assassin with Lethal Ignition.
+Defensive Emblem: Fighter with Festival of Blood and Brave Smite.
+Scaling Emblem: Fighter bruiser setup.
+
+**Battle spells**
+
+1. **Retribution (Ice)** — mandatory for jungle tempo and blue control.
+2. **Flicker** — only for niche angle correction or off-role play.
+3. **Purify** — situational into layered CC if you are forced into a riskier draft.
+
+**Matchups**
+Strong against immobile mages/marksmen and split backlines.
+Weak against grouped peel and any draft that can force her off flight.
+Hard counters: Franco, Khufra, Saber, Akai, Chou, Minsitthar.
+Best allies: Diggie, Mathilda, Atlas, Tigreal, Angela.
+Ban priorities: Franco, Khufra, Saber, Akai.
+
+**Advanced notes**
+Hidden synergy: Heptaseas is stronger than it looks because Fanny almost always lands the first meaningful hit in a fight.
+Common mistake: building pure damage and donating shutdown gold.
+Common gameplay mistake: forcing a cable angle without blue buff or without checking enemy CC.
+Patch-specific edge: current battlefield pressure still rewards early snowball more than slow scaling, which is exactly what Fanny wants.
+
+**Meta verification**
+The common Fanny burst build is close to optimal, but the public tendency to go full greed too early is wrong. One defensive slot earlier usually gives more wins than one extra damage slot.
+
+**Final verdict**
+Best Build: Core
+Best Emblem: Assassin
+Best Talent Setup: Rupture / Master Assassin / Killing Spree
+Best Spell: Retribution
+Current Tier: top-end but draft-sensitive
+Carry Potential: 10/10
+Difficulty: 10/10
+Overall Power: 9/10
+
+---
+
+## 2) Ling
+
+Ling is a conditional jungle carry, not a blind pick. His wall mobility and Lightness-point economy define his entire value, and the official hero page says he gains Lightness Points while on walls; current patch logic still rewards safe blue cycles and clean backline access more than raw stat-checking. ([Mobile Legends][3])
+
+**Mechanics ratings**
+Damage 8 | Burst 8 | DPS 8 | Mobility 10 | Sustain 4 | Durability 5 | CC 2 | Teamfight 7 | Objective 7 | Split Push 9 | Carry 10 | Difficulty 9
+
+**Hero analysis**
+Role & best position: Jungle.
+Lane priority: blue buff and wall access first, fights second.
+Win condition: pick off the backline before the enemy front line can collapse.
+Strengths: unmatched terrain access, excellent cleanup, strong map pressure.
+Weaknesses: blue-buff dependence, anti-dash counters, weak blind-pick reliability.
+Power spikes: first crit item, 2-item reset, walls plus ult.
+Scaling: Early 7 / Mid 10 / Late 8.
+Passive & skill synergy: crit and skill-to-basic cadence work best when he can hop walls continuously.
+
+**Builds**
+
+1. **Core** — Tough Boots > Berserker’s Fury > Haas’s Claws > Endless Battle > Blade of Despair > Malefic Roar.
+   This is the cleanest crit-reset profile: crit for burst, Haas for sustain, Endless for skill cadence, BoD for finish, Malefic for armor.
+   Ratings: Damage 9, Survivability 6, Teamfight 7, Consistency 8, Carry 10.
+
+2. **Max Damage** — Magic Boots > Sky Piercer > Berserker’s Fury > Haas’s Claws > Blade of Despair > Malefic Roar.
+   Highest execute pressure when the enemy backline is already exposed.
+   Ratings: Damage 10, Survivability 3, Teamfight 5, Consistency 5, Carry 10.
+
+3. **Solo Queue** — Tough Boots > Berserker’s Fury > Haas’s Claws > Endless Battle > Rose Gold Meteor > Immortality.
+   Better than glass cannon because solo queue throws random CC and bad engages at you all game.
+   Ratings: Damage 8, Survivability 8, Teamfight 7, Consistency 8, Carry 9.
+
+4. **Competitive** — Tough Boots > Berserker’s Fury > Endless Battle > Malefic Roar > Rose Gold Meteor > Immortality.
+   More stable in coordinated drafts where one bad dive loses the game.
+   Ratings: Damage 8, Survivability 9, Teamfight 8, Consistency 9, Carry 8.
+
+5. **Anti-Tank** — Tough Boots > Berserker’s Fury > Endless Battle > Malefic Roar > Sea Halberd > Blade of Despair.
+   Sea Halberd is the fix when healing and high HP are the real walls in front of you.
+   Ratings: Damage 8, Survivability 6, Teamfight 7, Consistency 8, Carry 8.
+
+6. **Anti-Burst** — Tough Boots > Rose Gold Meteor > Immortality > Berserker’s Fury > Endless Battle > Malefic Roar.
+   The shield plus revive are worth more than one greedy slot when burst is the real threat.
+   Ratings: Damage 7, Survivability 10, Teamfight 7, Consistency 8, Carry 8.
+
+7. **Anti-CC** — Tough Boots > Rose Gold Meteor > Immortality > Queen’s Wings > Berserker’s Fury > Malefic Roar.
+   This is survival through the first lockdown cycle, not true CC immunity.
+   Ratings: Damage 7, Survivability 9, Teamfight 7, Consistency 7, Carry 7.
+
+8. **Snowball** — Magic Boots > Sky Piercer > Berserker’s Fury > Haas’s Claws > Endless Battle > Blade of Despair.
+   When you can keep stacks and finish games early, this is the most punishing setup.
+   Ratings: Damage 10, Survivability 4, Teamfight 6, Consistency 6, Carry 10.
+
+9. **Late Game** — Tough Boots > Berserker’s Fury > Endless Battle > Malefic Roar > Blade of Despair > Immortality.
+   You still need one revive slot in long games because one bad rotation ends Ling’s value.
+   Ratings: Damage 8, Survivability 7, Teamfight 7, Consistency 8, Carry 8.
+
+**Emblems**
+
+1. **Assassin — Fatal / Seasoned Hunter / War Cry**. Best overall.
+2. **Assassin — Fatal / Seasoned Hunter / Killing Spree**. Best aggressive setup.
+3. **Assassin — Rupture / Seasoned Hunter / War Cry**. Best scaling versus armor.
+
+Best Overall Emblem: Assassin with Fatal and War Cry.
+Aggressive Emblem: Assassin with Killing Spree.
+Defensive Emblem: Assassin with Rupture and Killing Spree.
+Scaling Emblem: Assassin with Rupture and War Cry.
+
+**Battle spells**
+
+1. **Retribution (Ice)** — best jungle spell.
+2. **Flame Retribution** — better when you are already ahead and need kill pressure.
+3. **Flicker** — situational only, usually for off-meta lane play.
+
+**Matchups**
+Strong against immobile backlines and comps that cannot stop wall access.
+Weak against hard anti-dash and point-click lockdown.
+Hard counters: Khufra, Franco, Saber, Kaja, Minsitthar, Valir.
+Best allies: Diggie, Mathilda, Angela, Atlas.
+Ban priorities: Khufra, Franco, Saber, Kaja, Minsitthar.
+
+**Advanced notes**
+Hidden synergy: crit Ling is not about raw auto-attacks; it is about converting every reset into a lethal exit.
+Common mistake: fighting before your walls and blue path are ready.
+Common gameplay mistake: ulting too early and wasting your wall exit.
+Patch-specific edge: current draft tempo still rewards heroes who can collapse side lanes before full 5v5s begin.
+
+**Meta verification**
+The standard crit reset build is still the baseline, but I rate it as “best only when the draft lets it breathe.” When the enemy stacks armor or healing, the anti-armor branch wins more games.
+
+**Final verdict**
+Best Build: Core
+Best Emblem: Assassin
+Best Talent Setup: Fatal / Seasoned Hunter / War Cry
+Best Spell: Retribution (Ice)
+Current Tier: high but conditional
+Carry Potential: 10/10
+Difficulty: 9/10
+Overall Power: 9/10
+
+---
+
+## 3) Hayabusa
+
+Hayabusa is an isolation assassin. His Shadow Mark stacking rewards single-target pressure, and the official hero page notes that each stack increases damage to the marked enemy, which is why his best builds are all about first-hit access plus clean exit. ([Mobile Legends][4])
+
+**Mechanics ratings**
+Damage 8 | Burst 9 | DPS 7 | Mobility 9 | Sustain 4 | Durability 4 | CC 1 | Teamfight 5 | Objective 7 | Split Push 10 | Carry 9 | Difficulty 8
+
+**Hero analysis**
+Role & best position: Jungle.
+Lane priority: pick-off angles, not brute-force skirmishes.
+Win condition: isolate a carry, kill them, and leave before the enemy frontline can react.
+Strengths: extreme side-lane threat, excellent cleanup, strong escape routes.
+Weaknesses: group fights, hard CC, point-and-click burst.
+Power spikes: level 4, first mobility item, first execute item.
+Scaling: Early 8 / Mid 10 / Late 7.
+Passive & skill synergy: Shadow Mark makes long enough mark-up windows matter; you want one target, not a cluster.
+
+**Builds**
+
+1. **Core** — Magic Boots > Hunter Strike > Blade of the Heptaseas > Sky Piercer > Malefic Roar > Immortality.
+   Hunter Strike fixes movement and cycle speed, Heptaseas sharpens the first hit, Sky Piercer converts isolated targets into guaranteed kills.
+   Ratings: Damage 9, Survivability 6, Teamfight 6, Consistency 8, Carry 9.
+
+2. **Max Damage** — Swift Boots > Sky Piercer > Blade of the Heptaseas > Hunter Strike > Blade of Despair > Malefic Roar.
+   Pure backline deletion when the enemy is already split.
+   Ratings: Damage 10, Survivability 3, Teamfight 5, Consistency 5, Carry 10.
+
+3. **Solo Queue** — Tough Boots > Hunter Strike > Blade of the Heptaseas > Malefic Roar > Rose Gold Meteor > Immortality.
+   More forgiving because solo queue throws random hard CC and bad collapse timings at you.
+   Ratings: Damage 8, Survivability 8, Teamfight 6, Consistency 8, Carry 8.
+
+4. **Competitive** — Tough Boots > Hunter Strike > Malefic Roar > Rose Gold Meteor > Immortality > Sea Halberd.
+   Better when fights are coordinated and you need to stay alive after the first kill.
+   Ratings: Damage 7, Survivability 9, Teamfight 7, Consistency 9, Carry 8.
+
+5. **Anti-Tank** — Tough Boots > Hunter Strike > War Axe > Malefic Roar > Sea Halberd > Immortality.
+   War Axe is the “I need longer fighting power” answer when one target will not die in one ult.
+   Ratings: Damage 8, Survivability 7, Teamfight 6, Consistency 8, Carry 8.
+
+6. **Anti-Burst** — Tough Boots > Rose Gold Meteor > Queen’s Wings > Malefic Roar > Immortality > Hunter Strike.
+   These slots exist to keep you alive through the counterburst after Shadow Kill ends.
+   Ratings: Damage 7, Survivability 10, Teamfight 6, Consistency 8, Carry 8.
+
+7. **Anti-CC** — Tough Boots > Rose Gold Meteor > Immortality > Queen’s Wings > Hunter Strike > Malefic Roar.
+   This is the “survive the first lockdown and still move again” version.
+   Ratings: Damage 7, Survivability 9, Teamfight 6, Consistency 8, Carry 7.
+
+8. **Snowball** — Swift Boots > Sky Piercer > Blade of the Heptaseas > Hunter Strike > Blade of Despair > Malefic Roar.
+   Best when you are already chaining picks and want the game closed fast.
+   Ratings: Damage 10, Survivability 4, Teamfight 6, Consistency 6, Carry 10.
+
+9. **Late Game** — Tough Boots > Hunter Strike > Malefic Roar > Blade of Despair > Immortality > Rose Gold Meteor.
+   Late games punish greed; this keeps one defensive bridge while preserving kill pressure.
+   Ratings: Damage 8, Survivability 7, Teamfight 6, Consistency 8, Carry 8.
+
+**Emblems**
+
+1. **Assassin — Rupture / Seasoned Hunter / Killing Spree**. Best overall.
+2. **Assassin — Rupture / Seasoned Hunter / Lethal Ignition**. Best aggressive setup.
+3. **Assassin — Rupture / Seasoned Hunter / War Cry**. Best scaling setup.
+
+Best Overall Emblem: Assassin with Killing Spree.
+Aggressive Emblem: Assassin with Lethal Ignition.
+Defensive Emblem: Assassin with Killing Spree and defensive items.
+Scaling Emblem: Assassin with War Cry.
+
+**Battle spells**
+
+1. **Retribution (Ice)** — best jungle spell because it keeps the target in ult range.
+2. **Flame Retribution** — better for snowball and finish windows.
+3. **Flicker** — niche only, usually off-role.
+
+**Matchups**
+Strong against immobile backlines and single-target squishies.
+Weak against hard point-click CC and large persistent AoE zones.
+Hard counters: Kaja, Franco, Saber, Phoveus, Cyclops, Valir.
+Best allies: Atlas, Tigreal, Diggie, Mathilda, Angela.
+Ban priorities: Kaja, Franco, Saber, Phoveus, Valir.
+
+**Advanced notes**
+Hidden synergy: Hunter Strike is more valuable than it looks because it restores the “exit” part of your combo.
+Common mistake: ulting into a grouped team instead of a solo target.
+Common gameplay mistake: wasting Shadow Kill on minion clutter or tank body blocks.
+Patch-specific edge: split-heavy games still give Hayabusa the cleanest punish windows of the six heroes here.
+
+**Meta verification**
+The current public default of magic boots plus Hunter Strike and execute tools is already directionally correct. I prefer one more safety slot earlier if the enemy can force late fights.
+
+**Final verdict**
+Best Build: Core
+Best Emblem: Assassin
+Best Talent Setup: Rupture / Seasoned Hunter / Killing Spree
+Best Spell: Retribution (Ice)
+Current Tier: high, but draft-sensitive
+Carry Potential: 9/10
+Difficulty: 8/10
+Overall Power: 8/10
+
+---
+
+## 4) Lancelot
+
+Lancelot is an invincibility-frame assassin. His strength is not just mobility; it is the fact that he can phase through the enemy’s key response windows if you time the dashes correctly. Current patch logic still rewards that, but only if you avoid point-and-click control and overforce into AoE. ([MLBBHub][5])
+
+**Mechanics ratings**
+Damage 8 | Burst 9 | DPS 7 | Mobility 9 | Sustain 4 | Durability 4 | CC 2 | Teamfight 6 | Objective 6 | Split Push 8 | Carry 9 | Difficulty 8
+
+**Hero analysis**
+Role & best position: Jungle.
+Lane priority: isolate a target, then reset.
+Win condition: one clean backline delete, then a second dive if the fight continues.
+Strengths: I-frame abuse, clean pick pressure, excellent skirmish tempo.
+Weaknesses: suppress, persistent AoE, missing your combo window.
+Power spikes: first CDR/tempo item, 2-item burst, snowball stacks.
+Scaling: Early 7 / Mid 10 / Late 7.
+Passive & skill synergy: Soul Cutter rewards chained movement; Puncture resets are the engine, not the bonus.
+
+**Builds**
+
+1. **Core** — Tough Boots > War Axe > Hunter Strike > Endless Battle > Blade of Despair > Immortality.
+   War Axe and Hunter Strike keep the cadence alive, Endless Battle cashes the skill-to-hit window, BoD finishes the target, Immortality gives a second entry.
+   Ratings: Damage 9, Survivability 6, Teamfight 7, Consistency 8, Carry 9.
+
+2. **Max Damage** — Magic Boots > Sky Piercer > Blade of Heptaseas > Hunter Strike > Blade of Despair > Malefic Roar.
+   This is the purest “one target should die immediately” path.
+   Ratings: Damage 10, Survivability 3, Teamfight 5, Consistency 5, Carry 10.
+
+3. **Solo Queue** — Tough Boots > War Axe > Hunter Strike > Rose Gold Meteor > Blade of Despair > Immortality.
+   Safer when solo queue chaos means you cannot trust perfect spacing.
+   Ratings: Damage 8, Survivability 8, Teamfight 7, Consistency 8, Carry 9.
+
+4. **Competitive** — Tough Boots > War Axe > Hunter Strike > Endless Battle > Rose Gold Meteor > Immortality.
+   This is the highest-value teamfight version when the enemy can punish greedy dives.
+   Ratings: Damage 8, Survivability 9, Teamfight 8, Consistency 9, Carry 8.
+
+5. **Anti-Tank** — Tough Boots > War Axe > Hunter Strike > Malefic Roar > Sea Halberd > Blade of Despair.
+   This solves armor stacking and sustain, which are the two main reasons Lancelot’s kill window disappears.
+   Ratings: Damage 8, Survivability 6, Teamfight 6, Consistency 8, Carry 8.
+
+6. **Anti-Burst** — Tough Boots > Rose Gold Meteor > Queen’s Wings > War Axe > Hunter Strike > Immortality.
+   Keeps you alive long enough to finish or reset when the enemy tries to trade burst for your entry.
+   Ratings: Damage 7, Survivability 10, Teamfight 7, Consistency 8, Carry 8.
+
+7. **Anti-CC** — Tough Boots > Rose Gold Meteor > Immortality > Queen’s Wings > War Axe > Hunter Strike.
+   Not real CC immunity, but enough bulk to survive the first response and escape.
+   Ratings: Damage 7, Survivability 9, Teamfight 7, Consistency 7, Carry 7.
+
+8. **Snowball** — Magic Boots > Sky Piercer > Blade of Heptaseas > Hunter Strike > Malefic Roar > Blade of Despair.
+   Best when you are already winning skirmishes and want the game to end immediately.
+   Ratings: Damage 10, Survivability 4, Teamfight 6, Consistency 6, Carry 10.
+
+9. **Late Game** — Tough Boots > War Axe > Hunter Strike > Endless Battle > Malefic Roar > Immortality.
+   Late-game Lancelot wants survivability back in the build because one missed I-frame loses the fight.
+   Ratings: Damage 8, Survivability 7, Teamfight 7, Consistency 8, Carry 8.
+
+**Emblems**
+
+1. **Assassin — Rupture / Seasoned Hunter / Killing Spree**. Best overall.
+2. **Assassin — Rupture / Seasoned Hunter / Lethal Ignition**. Best aggressive setup.
+3. **Assassin — Rupture / Seasoned Hunter / War Cry**. Best scaling setup.
+
+Best Overall Emblem: Assassin with Killing Spree.
+Aggressive Emblem: Assassin with Lethal Ignition.
+Defensive Emblem: Assassin with Killing Spree plus Rose Gold / Immortality.
+Scaling Emblem: Assassin with War Cry.
+
+**Battle spells**
+
+1. **Retribution (Ice)** — best jungle spell for sticking a target in range.
+2. **Flame Retribution** — best when snowballing and you already have the lead.
+3. **Flicker** — situational off-role/angle-fix option.
+
+**Matchups**
+Strong against skill-shot-heavy drafts and immobile backlines.
+Weak against suppress, point-and-click CC, and heavy persistent AoE.
+Hard counters: Kaja, Franco, Saber, Phoveus, Cyclops, Valir.
+Best allies: Atlas, Tigreal, Mathilda, Angela, Diggie.
+Ban priorities: Kaja, Franco, Saber, Phoveus, Cyclops.
+
+**Advanced notes**
+Hidden synergy: Endless Battle fits him better than it looks because his combo repeatedly creates skill-to-basic windows.
+Common mistake: diving before the enemy spends their key CC.
+Common gameplay mistake: trying to teamfight front-to-back instead of using one clean flank.
+Patch-specific edge: current drafts still overvalue static backline mages, which Lancelot can punish hard if you read the entry timing.
+
+**Meta verification**
+The current public jungle build is close to correct. The stronger version is the one that respects how often coordinated teams can punish the first dive.
+
+**Final verdict**
+Best Build: Core
+Best Emblem: Assassin
+Best Talent Setup: Rupture / Seasoned Hunter / Killing Spree
+Best Spell: Retribution (Ice)
+Current Tier: high-skill niche
+Carry Potential: 9/10
+Difficulty: 8/10
+Overall Power: 8/10
+
+---
+
+## 5) Helcurt
+
+Helcurt is a silence assassin that happens to burst. His kit is about stealing the enemy’s reaction window; his darkness ultimate and silence effects are what make him useful, and his build should either amplify the first execute or let him pivot into longer stinger fights against tanks. ([MLBBHub][6])
+
+**Mechanics ratings**
+Damage 8 | Burst 8 | DPS 7 | Mobility 7 | Sustain 4 | Durability 4 | CC 6 | Teamfight 7 | Objective 6 | Split Push 6 | Carry 8 | Difficulty 7
+
+**Hero analysis**
+Role & best position: Jungle, with Roam as a real secondary route.
+Lane priority: pick-off windows and vision denial.
+Win condition: make the enemy carry lose visibility, then delete them before the fight becomes readable.
+Strengths: silence, fog pressure, ambush threat, strong into low-peel drafts.
+Weaknesses: hard lockdown, short-range entry, falling off into dense frontlines.
+Power spikes: first damage item, level 4 darkness, 2-item kill window.
+Scaling: Early 8 / Mid 9 / Late 6.
+Passive & skill synergy: stinger stacking makes attack tempo matter more than raw burst alone; after the silence opens a window, he still needs the right follow-up.
+
+**Builds**
+
+1. **Core** — Swift Boots > Blade of the Heptaseas > Endless Battle > Hunter Strike > Malefic Roar > Immortality.
+   This is the cleanest “silence, hit, leave” route; the attack-speed and skill-proc cadence matter more than one more random damage item.
+   Ratings: Damage 8, Survivability 6, Teamfight 7, Consistency 8, Carry 8.
+
+2. **Max Damage** — Swift Boots > Blade of the Heptaseas > Sky Piercer > Hunter Strike > Blade of Despair > Malefic Roar.
+   The pure execution version for squishy backlines.
+   Ratings: Damage 10, Survivability 3, Teamfight 5, Consistency 5, Carry 10.
+
+3. **Solo Queue** — Tough Boots > Blade of the Heptaseas > Hunter Strike > Endless Battle > Rose Gold Meteor > Immortality.
+   Safer because solo queue often means messy fights and random CC.
+   Ratings: Damage 8, Survivability 8, Teamfight 7, Consistency 8, Carry 8.
+
+4. **Competitive** — Tough Boots > Blade of the Heptaseas > Hunter Strike > Malefic Roar > Rose Gold Meteor > Immortality.
+   More stable when the enemy drafts layered peel.
+   Ratings: Damage 7, Survivability 9, Teamfight 8, Consistency 9, Carry 7.
+
+5. **Anti-Tank** — Swift Boots > Demon Hunter Sword > Corrosion Scythe > Sea Halberd > Malefic Roar > Immortality.
+   This is the correct answer when burst is impossible and you need stinger DPS to matter.
+   Ratings: Damage 8, Survivability 6, Teamfight 7, Consistency 8, Carry 8.
+
+6. **Anti-Burst** — Tough Boots > Rose Gold Meteor > Queen’s Wings > Hunter Strike > Malefic Roar > Immortality.
+   Built to survive the return burst after the silence window.
+   Ratings: Damage 7, Survivability 10, Teamfight 7, Consistency 8, Carry 7.
+
+7. **Anti-CC** — Tough Boots > Rose Gold Meteor > Immortality > Queen’s Wings > Hunter Strike > Malefic Roar.
+   A survival-first layout when the enemy CC is the real problem.
+   Ratings: Damage 7, Survivability 9, Teamfight 7, Consistency 7, Carry 7.
+
+8. **Snowball** — Swift Boots > Sky Piercer > Blade of Heptaseas > Hunter Strike > Blade of Despair > Malefic Roar.
+   Best if you are already chaining picks and the game can end before the enemy groups.
+   Ratings: Damage 10, Survivability 4, Teamfight 6, Consistency 6, Carry 10.
+
+9. **Late Game** — Swift Boots > Demon Hunter Sword > Corrosion Scythe > Sea Halberd > Malefic Roar > Immortality.
+   If the game runs long, Helcurt often has to become a frontline shredder instead of a pure assassin.
+   Ratings: Damage 8, Survivability 6, Teamfight 7, Consistency 8, Carry 7.
+
+**Emblems**
+
+1. **Assassin — Rupture / Seasoned Hunter / Killing Spree**. Best overall.
+2. **Assassin — Rupture / Master Assassin / Lethal Ignition**. Best aggressive burst setup.
+3. **Assassin — Rupture / Seasoned Hunter / War Cry**. Best scaling or anti-frontline setup.
+
+Best Overall Emblem: Assassin with Killing Spree.
+Aggressive Emblem: Assassin with Lethal Ignition.
+Defensive Emblem: Assassin with Killing Spree and defensive items.
+Scaling Emblem: Assassin with War Cry.
+
+**Battle spells**
+
+1. **Retribution (Flame)** — best jungle spell for kill pressure.
+2. **Petrify** — best roam/pick version.
+3. **Flicker** — situational angle-fix option.
+
+**Matchups**
+Strong against squishy, vision-dependent drafts and isolated carries.
+Weak against hard peel, point-click control, and teams that can layer CC on reaction.
+Hard counters: Diggie, Kaja, Franco, Saber, Valir, Minsitthar.
+Best allies: Atlas, Tigreal, Khufra, Mathilda, Angela.
+Ban priorities: Diggie, Kaja, Franco, Saber, Valir.
+
+**Advanced notes**
+Hidden synergy: silence plus darkness is strongest when the enemy has already spent their movement spell.
+Common mistake: opening S1 before the ult window is active.
+Common gameplay mistake: firing the second skill with too few stingers.
+Patch-specific edge: he is still a strong punisher into squishy lineups, but he is not a universal blind pick.
+
+**Meta verification**
+The public burst build is fine, but it is incomplete when the enemy shows multiple frontliners. In those drafts, the attack-speed/DHS pivot is stronger.
+
+**Final verdict**
+Best Build: Core
+Best Emblem: Assassin
+Best Talent Setup: Rupture / Seasoned Hunter / Killing Spree
+Best Spell: Retribution (Flame)
+Current Tier: matchup assassin
+Carry Potential: 8/10
+Difficulty: 7/10
+Overall Power: 7/10
+
+---
+
+## 6) Sora
+
+Sora is the most flexible hero in this batch. The official hero page says he can ascend to **Thunder** or **Torrent** with his Ultimate and gain **Cloudstep** stacks by damaging heroes or summons; MLBBHub treats him as a **Fighter/Assassin** in the EXP lane with charge/burst identity. That means his best build is not “full damage,” but “enough damage to matter, enough bulk to choose the right form.” ([Mobile Legends][7])
+
+**Mechanics ratings**
+Damage 7 | Burst 7 | DPS 6 | Mobility 7 | Sustain 7 | Durability 7 | CC 6 | Teamfight 7 | Objective 6 | Split Push 6 | Carry 7 | Difficulty 6
+
+**Hero analysis**
+Role & best position: EXP lane.
+Lane priority: survive first contact, then convert the first river fight.
+Win condition: choose Thunder to cash out a lead, or Torrent to start the fight your team wants.
+Strengths: flexible form choice, solid bruiser tempo, meaningful front-to-back and engage value.
+Weaknesses: loses value if you force the wrong form, or if you build him as a fake assassin without enough uptime.
+Power spikes: first item, second item, first good form conversion.
+Scaling: Early 7 / Mid 8 / Late 8.
+Passive & skill synergy: Cloudstep rewards repeated damage; the longer you stay relevant after the first hit, the better he becomes.
+
+**Builds**
+
+1. **Core** — Tough Boots > War Axe > Hunter Strike > Brute Force Breastplate > Queen’s Wings > Immortality.
+   This matches the hero’s actual win condition: contact, stay alive, keep fighting, then choose Thunder or Torrent based on the fight state.
+   Ratings: Damage 7, Survivability 8, Teamfight 8, Consistency 9, Carry 8.
+
+2. **Max Damage** — Tough Boots > War Axe > Hunter Strike > Malefic Roar > Blade of Despair > Sky Piercer.
+   Best when your draft already has frontline and you only need Sora to cash out kills.
+   Ratings: Damage 9, Survivability 4, Teamfight 6, Consistency 6, Carry 9.
+
+3. **Solo Queue** — Tough Boots > War Axe > Hunter Strike > Queen’s Wings > Immortality > Brute Force Breastplate.
+   Higher forgiveness when teammates do not coordinate your form choice.
+   Ratings: Damage 7, Survivability 9, Teamfight 8, Consistency 9, Carry 8.
+
+4. **Competitive** — Tough Boots > War Axe > Hunter Strike > Brute Force Breastplate > Dominance Ice > Immortality.
+   This is the best “I can start or finish” setup for coordinated drafts.
+   Ratings: Damage 6, Survivability 9, Teamfight 9, Consistency 9, Carry 7.
+
+5. **Anti-Tank** — Tough Boots > War Axe > Hunter Strike > Malefic Roar > Sea Halberd > Blade of Despair.
+   Needed when the enemy front line is too thick for normal bruiser damage to matter.
+   Ratings: Damage 8, Survivability 6, Teamfight 7, Consistency 8, Carry 8.
+
+6. **Anti-Burst** — Tough Boots > Athena’s Shield > Queen’s Wings > Brute Force Breastplate > Immortality > Oracle.
+   The best answer when one magic combo can erase you before the second form matters.
+   Ratings: Damage 6, Survivability 10, Teamfight 8, Consistency 8, Carry 7.
+
+7. **Anti-CC** — Tough Boots > Brute Force Breastplate > Queen’s Wings > Immortality > Dominance Ice > Oracle.
+   This is the “I have to stay on the map through layered control” version.
+   Ratings: Damage 6, Survivability 9, Teamfight 8, Consistency 8, Carry 7.
+
+8. **Snowball** — Tough Boots > War Axe > Hunter Strike > Sky Piercer > Blade of Despair > Malefic Roar.
+   Best when you are ahead and can convert one win into two towers.
+   Ratings: Damage 9, Survivability 5, Teamfight 7, Consistency 7, Carry 9.
+
+9. **Late Game** — Tough Boots > War Axe > Hunter Strike > Malefic Roar > Dominance Ice > Immortality.
+   Late Sora should contribute to long fights, not just one entry.
+   Ratings: Damage 7, Survivability 8, Teamfight 9, Consistency 9, Carry 8.
+
+**Emblems**
+
+1. **Fighter — Vitality / Festival of Blood / Brave Smite**. Best overall.
+2. **Fighter — Vitality / Festival of Blood / Temporal Reign**. Best defensive/frontline setup.
+3. **Fighter — Vitality / Seasoned Hunter / Temporal Reign**. Best scaling/objective setup.
+
+Best Overall Emblem: Fighter.
+Aggressive Emblem: Fighter with Brave Smite.
+Defensive Emblem: Fighter with Temporal Reign.
+Scaling Emblem: Fighter with Seasoned Hunter and Temporal Reign.
+
+**Battle spells**
+
+1. **Flicker** — best overall because it fixes both Thunder and Torrent angles.
+2. **Vengeance** — best when you must front-line in Torrent.
+3. **Retribution** — only if you are flexing him into jungle.
+
+**Matchups**
+Strong against short-range melee lanes and backlines that cannot respect his approach.
+Weak against long-range poke and drafts that deny clean entry.
+Hard counters: Kaja, Franco, Valir, Lolita, heavy anti-dive peel.
+Best allies: Atlas, Tigreal, Minotaur, Diggie, Angela.
+Ban priorities: Kaja, Franco, Valir, Lolita.
+
+**Advanced notes**
+Hidden synergy: War Axe + Hunter Strike is the real engine; it makes both Thunder and Torrent feel better.
+Common mistake: choosing the wrong form for the fight state.
+Common gameplay mistake: building him like a pure assassin and then dying before the second cast matters.
+Patch-specific edge: current EXP-lane pacing rewards bruisers who can also create their own fight shape, which is exactly what Sora does.
+
+**Meta verification**
+The common bruiser setup is stronger than full-glass burst. Sora wins more by taking a second hit than by inflating one first hit.
+
+**Final verdict**
+Best Build: Core
+Best Emblem: Fighter
+Best Talent Setup: Vitality / Festival of Blood / Brave Smite
+Best Spell: Flicker
+Current Tier: strong bruiser, not a blind pick
+Carry Potential: 7/10
+Difficulty: 6/10
+Overall Power: 7/10
+
+---
+
+If you want the next batch in the same format, I’ll do the remaining heroes without changing the structure.
+
+[1]: https://liquipedia.net/mobilelegends/Portal%3APatches?utm_source=chatgpt.com "Patches - Liquipedia Mobile Legends: Bang Bang Wiki"
+[2]: https://www.mobilelegends.com/hero/detail?heroid=17&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[3]: https://www.mobilelegends.com/hero/detail?channelid=2678820&heroid=84&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[4]: https://www.mobilelegends.com/hero/detail?channelid=2678757&heroid=21&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[5]: https://mlbbhub.com/heroes/lancelot "MLBB Lancelot Build, Guide, Emblem & Counter (2026)"
+[6]: https://mlbbhub.com/heroes/helcurt?utm_source=chatgpt.com "MLBB Helcurt Build, Guide, Emblem & Counter (2026)"
+[7]: https://www.mobilelegends.com/hero/detail?channelid=3245715&heroid=131&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+
+Patch context first: **Season 40 / Patch 2.1.67a** is a small hotfix after the larger 2.1.67 balance pass, with Gold Lane durability and carry pacing still central to the meta; that is why I’m leaning into on-hit efficiency, anti-burst slots, and “survive the first engage” builds rather than pure greed on most marksmen. Wanwan’s weakness-trigger damage, Hanabi’s bouncing Petal Blades, Kimmy’s attack-speed-to-magic conversion, Granger’s Demonic Energy system, Yi Sun-shin’s distance-based weapon swapping, and Karrie’s Max-HP true damage all push their itemization in different directions. ([Liquipedia][1])
+
+## 1) Claude
+
+Claude is the clearest “fight around attack-speed uptime” marksman here. His official kit centers on **Art of Thievery** stacking speed and **Blazing Duet** turning that speed into AoE damage, so the best builds maximize attack speed, on-hit value, and one survival slot to keep him alive during ult channel windows. He is best in **Gold Lane**, with Jungle as a niche tempo option. ([Liquipedia][2])
+
+**Ratings:** Damage 8 | Burst 6 | DPS 10 | Mobility 8 | Sustain 4 | Durability 5 | CC 2 | Teamfight 8 | Objective 8 | Split Push 7 | Carry 8 | Difficulty 7
+
+**Hero analysis:**
+Best position: Gold Lane.
+Lane priority: farm safely to two items, then force skirmishes around ult.
+Win condition: enter fights after enemy CC is used, then maximize Blazing Duet uptime.
+Strengths: strong AoE, fast wave pressure, good tower taking with attack speed.
+Weaknesses: vulnerable before items, weak into hard burst/lockdown, needs clean ult timing.
+Power spikes: first attack-speed item, level 4, two-item duelist window, late-game full build.
+Scaling: Early 5 / Mid 8 / Late 10.
+Passive/skill synergy: every stat that gives attack speed or keeps him alive during ultimate has more value than raw AD stacking. ([Liquipedia][2])
+
+**Builds**
+**Core:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Wind of Nature → Malefic Roar. This is the most efficient damage curve: DHS and Golden Staff solve tank shredding and proc density, Corrosion helps stick targets, WoN keeps the ult from being interrupted by physical burst, and Malefic Roar prevents armor from blanking your DPS.
+**Max Damage:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Malefic Roar → Sea Halberd. Best raw DPS into beefy targets or healing comps.
+**Solo Queue:** Swift Boots → Demon Hunter Sword → Golden Staff → Wind of Nature → Rose Gold Meteor → Malefic Roar. Higher forgiveness because random dives and burst are the real solo-queue punishers.
+**Competitive:** Tough Boots → Demon Hunter Sword → Golden Staff → Malefic Roar → Wind of Nature → Immortality. Safer for coordinated games where one death loses map control.
+**Anti-Tank:** Swift Boots → Demon Hunter Sword → Golden Staff → Sea Halberd → Malefic Roar → Oracle. Anti-heal only comes early here if the enemy front line is also healing through your ult.
+**Anti-Burst:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Demon Hunter Sword → Golden Staff.
+**Anti-CC:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Malefic Roar → Golden Staff.
+**Snowball:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Malefic Roar → Blade of Despair.
+**Late Game:** Tough Boots → Demon Hunter Sword → Golden Staff → Malefic Roar → Wind of Nature → Immortality. ([Liquipedia][2])
+
+**Emblems**
+
+1. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best overall because it gives damage, conversion, and kiting.
+2. **Assassin** — Rupture / Weapon Master / Killing Spree. Better if you are playing for clean cleanup and resets.
+3. **Fighter** — Vitality / Weapon Master / Festival of Blood. Best defensive fallback.
+   Best Overall: Marksman. Aggressive: Assassin. Defensive: Fighter. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Inspire** — best for pure Claude DPS and objective burn.
+2. **Flicker** — second best for ult angle-fixing and survival.
+3. **Purify** — situational into hard CC chains.
+
+**Matchups**
+Strong against short-range front-to-back drafts and tank-heavy teams.
+Weak against burst assassins and point-click CC.
+Hard counters: Saber, Kaja, Franco, Khufra, Minsitthar.
+Best allies: Atlas, Tigreal, Diggie, Mathilda, Angela.
+Ban priorities: Khufra, Franco, Saber, Kaja.
+
+**Advanced notes:** The biggest mistake is rushing damage without a safety slot; Claude loses more games to getting removed during Blazing Duet than to lacking one extra damage item. The popular attack-speed core is correct, but **Wind of Nature earlier than usual** is the stronger choice when burst assassins are common. ([Liquipedia][2])
+
+**Final verdict:** Best Build Core; Best Emblem Marksman; Best Talent Setup Fatal / Weapon Master / Quantum Charge; Best Spell Inspire; Current Tier A; Carry Potential 8/10; Difficulty 7/10; Overall Power 8/10.
+
+---
+
+## 2) Wanwan
+
+Wanwan is still a high-tempo Gold Lane carry whose real power comes from **weakness procs into ultimate access**; the official page says hitting a weakness deals extra true damage and increases subsequent damage taken, which is why she scales with attack speed, attack range, and survival tools more than raw crit. ([Mobile Legends Wiki][3])
+
+**Ratings:** Damage 8 | Burst 8 | DPS 9 | Mobility 10 | Sustain 4 | Durability 4 | CC 2 | Teamfight 9 | Objective 7 | Split Push 8 | Carry 10 | Difficulty 9
+
+**Hero analysis:**
+Best position: Gold Lane.
+Lane priority: survive early, poke weaknesses, hit ult breakpoint without dying.
+Win condition: trigger Crossbow of Tang in a fight the enemy already committed to.
+Strengths: extreme mobility, hard to lock, brutal cleanup.
+Weaknesses: weak pre-ult, sensitive to range control, punished if she cannot reposition.
+Power spikes: first attack-speed item, ult access, two-item kiting window.
+Scaling: Early 4 / Mid 8 / Late 10.
+Passive/skill synergy: every on-hit and every defensive slot that preserves uptime is more valuable than one more greedy attack item. ([Mobile Legends Wiki][3])
+
+**Builds**
+**Core:** Swift Boots → Corrosion Scythe → Demon Hunter Sword → Golden Staff → Wind of Nature → Malefic Gun. This is the most efficient “dash forever while shredding” path.
+**Max Damage:** Swift Boots → Corrosion Scythe → Demon Hunter Sword → Golden Staff → Malefic Roar → Sea Halberd. Highest kill pressure into tankier drafts.
+**Solo Queue:** Tough Boots → Corrosion Scythe → Demon Hunter Sword → Wind of Nature → Rose Gold Meteor → Malefic Gun. Solo queue punishes greedy glass builds, so survival comes earlier.
+**Competitive:** Tough Boots → Corrosion Scythe → Demon Hunter Sword → Wind of Nature → Malefic Gun → Immortality. More stable for coordinated punish windows.
+**Anti-Tank:** Swift Boots → Demon Hunter Sword → Golden Staff → Sea Halberd → Malefic Roar → Malefic Gun.
+**Anti-Burst:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Demon Hunter Sword → Golden Staff.
+**Anti-CC:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Malefic Gun → Golden Staff.
+**Snowball:** Swift Boots → Corrosion Scythe → Demon Hunter Sword → Golden Staff → Malefic Gun → Blade of Despair.
+**Late Game:** Tough Boots → Corrosion Scythe → Demon Hunter Sword → Golden Staff → Malefic Gun → Immortality. ([Mobile Legends Wiki][3])
+
+**Emblems**
+
+1. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best overall.
+2. **Assassin** — Rupture / Master Assassin / Killing Spree. Best if you are playing pure cleanup.
+3. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best defensive option.
+   Best Overall: Marksman. Aggressive: Assassin. Defensive: Fighter. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Purify** — best overall because Wanwan dies if control lands before ult.
+2. **Inspire** — best when your front line guarantees safe ult conditions.
+3. **Flicker** — situational for positioning and emergency escape.
+
+**Matchups**
+Strong against slow tanks and drafts without reliable lockdown.
+Weak against long-range poke and instant CC.
+Hard counters: Khufra, Franco, Saber, Kaja, Minsitthar, Valir.
+Best allies: Diggie, Minotaur, Atlas, Mathilda, Angela.
+Ban priorities: Khufra, Franco, Kaja, Valir.
+
+**Advanced notes:** Her biggest hidden value is not just damage; it is how much draft pressure she creates by forcing enemies to hold CC for her. The common pure-crit idea is wrong here; **on-hit + survival** is the stronger route. ([Mobile Legends Wiki][3])
+
+**Final verdict:** Best Build Core; Best Emblem Marksman; Best Talent Setup Fatal / Weapon Master / Quantum Charge; Best Spell Purify; Current Tier S/A; Carry Potential 10/10; Difficulty 9/10; Overall Power 9/10.
+
+---
+
+## 3) Karrie
+
+Karrie’s identity is simple: she is a tank-breaker. Her passive stacks **Lightwheel Mark**, then converts 5 stacks into **true damage based on target max HP**, which is why attack speed and on-hit efficiency dominate every good build. ([Mobile Legends Wiki][4])
+
+**Ratings:** Damage 8 | Burst 5 | DPS 10 | Mobility 5 | Sustain 5 | Durability 4 | CC 2 | Teamfight 7 | Objective 9 | Split Push 7 | Carry 8 | Difficulty 6
+
+**Hero analysis:**
+Best position: Gold Lane.
+Lane priority: farm safely, then delete frontlines before they can scale.
+Win condition: hit consistent auto-attack uptime into HP-stacked targets.
+Strengths: unmatched tank shredding, excellent objective burn, simple execution.
+Weaknesses: short range, vulnerable to burst and heavy poke, less explosive into squishy drafts.
+Power spikes: first attack-speed core, two-item shred window, late-game on-hit setup.
+Scaling: Early 5 / Mid 8 / Late 10.
+Passive/skill synergy: anything that accelerates hits or keeps her attacking is better than raw AD. ([Mobile Legends Wiki][4])
+
+**Builds**
+**Core:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Malefic Gun → Wind of Nature. Best all-around because it solves the exact problem Karrie has: reaching and shredding targets without dying instantly.
+**Max Damage:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Malefic Roar → Sea Halberd.
+**Solo Queue:** Tough Boots → Demon Hunter Sword → Golden Staff → Wind of Nature → Rose Gold Meteor → Malefic Gun.
+**Competitive:** Tough Boots → Demon Hunter Sword → Golden Staff → Malefic Gun → Wind of Nature → Immortality.
+**Anti-Tank:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Sea Halberd → Malefic Gun.
+**Anti-Burst:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Demon Hunter Sword → Golden Staff.
+**Anti-CC:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Malefic Gun → Golden Staff.
+**Snowball:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Malefic Gun → Blade of Despair.
+**Late Game:** Tough Boots → Demon Hunter Sword → Golden Staff → Malefic Gun → Wind of Nature → Immortality. ([Mobile Legends Wiki][4])
+
+**Emblems**
+
+1. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best overall.
+2. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best when you need durability in longer fights.
+3. **Assassin** — Rupture / Weapon Master / Killing Spree. Best aggressive option.
+   Best Overall: Marksman. Aggressive: Assassin. Defensive: Fighter. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Inspire** — best because Karrie wins by attack-speed uptime.
+2. **Flicker** — second best for range fixes and escape.
+3. **Purify** — situational into layered CC.
+
+**Matchups**
+Strong against high-HP front lines, damage-reduction tanks, and objective contests.
+Weak against long-range burst and hard dive.
+Hard counters: Franco, Saber, Khufra, Kaja, Chou.
+Best allies: Atlas, Tigreal, Diggie, Angela, Minotaur.
+Ban priorities: Khufra, Franco, Saber, Kaja.
+
+**Advanced notes:** The most common mistake is building her like a crit marksman; she is an on-hit shredder, not a crit finisher. The popular DHS/Golden Staff idea is right, but I prefer **Wind of Nature earlier** in most real games because Karrie’s issue is often surviving long enough to finish the tank. ([Mobile Legends Wiki][4])
+
+**Final verdict:** Best Build Core; Best Emblem Marksman; Best Talent Setup Fatal / Weapon Master / Quantum Charge; Best Spell Inspire; Current Tier A/S; Carry Potential 8/10; Difficulty 6/10; Overall Power 8/10.
+
+---
+
+## 4) Beatrix
+
+Beatrix is the highest-flexibility marksman in this group. Her kit revolves around weapon swapping, and the official site explicitly highlights her weapon-based teamfight sequencing; that means itemization should support whichever weapon pattern you want to win with, not force one generic marksman curve. ([Mobile Legends][5])
+
+**Ratings:** Damage 9 | Burst 10 | DPS 7 | Mobility 5 | Sustain 3 | Durability 4 | CC 2 | Teamfight 8 | Objective 8 | Split Push 7 | Carry 9 | Difficulty 9
+
+**Hero analysis:**
+Best position: Gold Lane.
+Lane priority: safe wave control until you can threaten kill windows.
+Win condition: choose the correct weapon for the enemy shape and force them to answer your range.
+Strengths: burst flexibility, lane control, high ceiling, multiple fight patterns.
+Weaknesses: skill-heavy, punished by mispositioning, worse when you pick the wrong gun for the draft.
+Power spikes: first damage item, level 4, two-item burst or DPS conversion.
+Scaling: Early 7 / Mid 9 / Late 9.
+Passive/skill synergy: because Beatrix can pivot between burst and sustained patterns, hybrid item decisions are often better than hard-committing too early. ([Mobile Legends][5])
+
+**Builds**
+**Core:** Swift Boots → Blade of Despair → Hunter Strike → Malefic Roar → Wind of Nature → Immortality. Best “weapon-flex” neutral setup when you need both pick and survivability.
+**Max Damage:** Swift Boots → Blade of Despair → Hunter Strike → Malefic Roar → Malefic Gun → Sky Piercer.
+**Solo Queue:** Tough Boots → Blade of Despair → Hunter Strike → Wind of Nature → Rose Gold Meteor → Immortality.
+**Competitive:** Tough Boots → Hunter Strike → Malefic Roar → Wind of Nature → Immortality → Blade of Despair.
+**Anti-Tank:** Swift Boots → Hunter Strike → Malefic Roar → Sea Halberd → Blade of Despair → Malefic Gun.
+**Anti-Burst:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Blade of Despair → Hunter Strike.
+**Anti-CC:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Malefic Roar → Blade of Despair.
+**Snowball:** Swift Boots → Blade of Despair → Hunter Strike → Malefic Gun → Malefic Roar → Sky Piercer.
+**Late Game:** Tough Boots → Hunter Strike → Malefic Roar → Wind of Nature → Immortality → Blade of Despair. ([Mobile Legends][5])
+
+**Emblems**
+
+1. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best overall.
+2. **Assassin** — Rupture / Master Assassin / Lethal Ignition. Best for burst gun styles.
+3. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best for safety.
+   Best Overall: Marksman. Aggressive: Assassin. Defensive: Fighter. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Flicker** — best for spacing and gun transitions.
+2. **Inspire** — second best when you lean into sustained Nibiru-type DPS.
+3. **Purify** — situational into hard CC.
+
+**Matchups**
+Strong against teams that can’t close distance cleanly.
+Weak against hard dive and instant suppression.
+Hard counters: Khufra, Franco, Kaja, Saber, Minsitthar.
+Best allies: Atlas, Tigreal, Diggie, Angela, Mathilda.
+Ban priorities: Khufra, Franco, Kaja, Saber.
+
+**Advanced notes:** Her common build mistake is overcommitting to one mode; Beatrix is strongest when your items still let her swap between burst and sustained pressure. The famous “full DPS” route is not always best; **one defensive item usually gives more win value than a third greedy damage item**. ([Mobile Legends][5])
+
+**Final verdict:** Best Build Core; Best Emblem Marksman; Best Talent Setup Fatal / Weapon Master / Quantum Charge; Best Spell Flicker; Current Tier A; Carry Potential 9/10; Difficulty 9/10; Overall Power 8/10.
+
+---
+
+## 5) Granger
+
+Granger is not a basic-attack marksman; the official hero page says his gun and cannon use **Demonic Energy**, his energy cap grows with kills, and **CDR converts into Physical Attack**, which is why CDR-oriented burst and efficient one-cycle damage are more important than attack-speed stacking. ([Mobile Legends Wiki][6])
+
+**Ratings:** Damage 8 | Burst 9 | DPS 5 | Mobility 6 | Sustain 3 | Durability 4 | CC 1 | Teamfight 6 | Objective 6 | Split Push 5 | Carry 8 | Difficulty 6
+
+**Hero analysis:**
+Best position: Gold Lane, with Jungle as a tempo niche.
+Lane priority: get safe farm and one clean poke pattern.
+Win condition: land repeated skill cycles and finish with ult shots.
+Strengths: strong burst, wave punish, reliable tempo if ahead.
+Weaknesses: lower sustained damage than on-hit MMs, punished in extended tank fights, can feel energy-starved if misplayed.
+Power spikes: first burst item, level 4 ult, two-item poke window.
+Scaling: Early 7 / Mid 8 / Late 7.
+Passive/skill synergy: any item that gives damage while respecting his CDR-to-Physical conversion is more efficient than a random attack-speed route. ([Mobile Legends Wiki][6])
+
+**Builds**
+**Core:** Tough Boots → Hunter Strike → Endless Battle → Blade of Despair → Malefic Roar → Immortality. Best general-purpose burst curve because CDR and move speed convert into more Physical Attack and better re-positioning.
+**Max Damage:** Swift Boots → Hunter Strike → Blade of Despair → Malefic Roar → Sky Piercer → Endless Battle.
+**Solo Queue:** Tough Boots → Hunter Strike → Endless Battle → Rose Gold Meteor → Blade of Despair → Immortality.
+**Competitive:** Tough Boots → Hunter Strike → Endless Battle → Malefic Roar → Rose Gold Meteor → Immortality.
+**Anti-Tank:** Tough Boots → Hunter Strike → Malefic Roar → Sea Halberd → Endless Battle → Blade of Despair.
+**Anti-Burst:** Tough Boots → Rose Gold Meteor → Immortality → Hunter Strike → Endless Battle → Malefic Roar.
+**Anti-CC:** Tough Boots → Rose Gold Meteor → Immortality → Hunter Strike → Malefic Roar → Blade of Despair.
+**Snowball:** Swift Boots → Hunter Strike → Blade of Despair → Sky Piercer → Malefic Roar → Endless Battle.
+**Late Game:** Tough Boots → Hunter Strike → Endless Battle → Malefic Roar → Blade of Despair → Immortality. ([Mobile Legends Wiki][6])
+
+**Emblems**
+
+1. **Assassin** — Rupture / Master Assassin / Lethal Ignition. Best overall.
+2. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best if you want safer scaling.
+3. **Mage** — Rupture / Bargain Hunter / Lethal Ignition. Niche, but valid if you are maximizing spell-cycle burst.
+   Best Overall: Assassin. Aggressive: Assassin. Defensive: Marksman. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Flicker** — best for lane safety and ult angle correction.
+2. **Inspire** — second best if you are playing him as a tempo duelist.
+3. **Purify** — situational versus lockdown.
+
+**Matchups**
+Strong against squishies and teams that let him free-cast.
+Weak against heavy dive and sustained frontlines.
+Hard counters: Saber, Kaja, Franco, Khufra, Valir.
+Best allies: Atlas, Tigreal, Diggie, Angela, Mathilda.
+Ban priorities: Khufra, Franco, Kaja, Saber.
+
+**Advanced notes:** The major build mistake is treating Granger like a basic-attack marksman; the hero gets more value from burst, CDR, and safe spacing than from attack-speed greed. In this patch environment, that makes him a tempo marksman rather than a pure late-game shredder. ([Mobile Legends Wiki][6])
+
+**Final verdict:** Best Build Core; Best Emblem Assassin; Best Talent Setup Rupture / Master Assassin / Lethal Ignition; Best Spell Flicker; Current Tier A; Carry Potential 8/10; Difficulty 6/10; Overall Power 7/10.
+
+---
+
+## 6) Yi Sun-shin
+
+YSS is a hybrid-distance marksman/jungler whose attacks swap between longbow and glaive based on range, and his first two basics after each swap gain bonus effects. That makes him a tempo hero: he wants item efficiency, map vision value, and a build that supports both poke and cleanup. ([Mobile Legends][7])
+
+**Ratings:** Damage 7 | Burst 7 | DPS 7 | Mobility 6 | Sustain 3 | Durability 4 | CC 3 | Teamfight 7 | Objective 9 | Split Push 7 | Carry 8 | Difficulty 7
+
+**Hero analysis:**
+Best position: Jungle, with Gold Lane as a niche.
+Lane priority: secure tempo and global pressure.
+Win condition: create map advantages with ult information, then finish with mixed damage.
+Strengths: objective value, long-range vision pressure, flexible damage profile.
+Weaknesses: lower raw lane bullying than top gold laners, mediocre front-to-back if behind.
+Power spikes: first damage item, ult vision, two-item global pressure.
+Scaling: Early 6 / Mid 8 / Late 8.
+Passive/skill synergy: attack-speed and damage that improve both poke and follow-up basics are worth more than pure crit fantasy. ([Mobile Legends][7])
+
+**Builds**
+**Core:** Swift Boots → Hunter Strike → Endless Battle → Blade of Despair → Malefic Roar → Immortality. Balanced output that supports both poke and cleanup.
+**Max Damage:** Swift Boots → Blade of Despair → Endless Battle → Hunter Strike → Malefic Roar → Sky Piercer.
+**Solo Queue:** Tough Boots → Hunter Strike → Endless Battle → Rose Gold Meteor → Immortality → Blade of Despair.
+**Competitive:** Tough Boots → Hunter Strike → Endless Battle → Malefic Roar → Immortality → Rose Gold Meteor.
+**Anti-Tank:** Swift Boots → Endless Battle → Malefic Roar → Sea Halberd → Blade of Despair → Hunter Strike.
+**Anti-Burst:** Tough Boots → Rose Gold Meteor → Immortality → Endless Battle → Hunter Strike → Malefic Roar.
+**Anti-CC:** Tough Boots → Rose Gold Meteor → Immortality → Hunter Strike → Endless Battle → Malefic Roar.
+**Snowball:** Swift Boots → Hunter Strike → Blade of Despair → Sky Piercer → Malefic Roar → Endless Battle.
+**Late Game:** Tough Boots → Hunter Strike → Endless Battle → Malefic Roar → Blade of Despair → Immortality. ([Mobile Legends][7])
+
+**Emblems**
+
+1. **Assassin** — Rupture / Seasoned Hunter / Killing Spree. Best overall for jungle YSS.
+2. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best if you play him as a lane carry.
+3. **Fighter** — Vitality / Festival of Blood / Brave Smite. Defensive fallback.
+   Best Overall: Assassin. Aggressive: Assassin. Defensive: Fighter. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Retribution** — best in jungle, obviously.
+2. **Flicker** — second best for pick adjustments.
+3. **Purify** — situational into hard CC.
+
+**Matchups**
+Strong against slower drafts and objective contests.
+Weak against hard dive and direct lane killers.
+Hard counters: Franco, Saber, Kaja, Khufra, Valir.
+Best allies: Atlas, Diggie, Angela, Minotaur, Tigreal.
+Ban priorities: Khufra, Franco, Saber, Kaja.
+
+**Advanced notes:** The common mistake is overvaluing “assassin fantasy” and ignoring his map-control value. His best build is the one that lets him live long enough to keep firing after the first swap and ult rotation. ([Mobile Legends][7])
+
+**Final verdict:** Best Build Core; Best Emblem Assassin; Best Talent Setup Rupture / Seasoned Hunter / Killing Spree; Best Spell Retribution; Current Tier A; Carry Potential 8/10; Difficulty 7/10; Overall Power 7/10.
+
+---
+
+## 7) Hanabi
+
+Hanabi’s passive makes her attacks and skills bounce to nearby enemies, and her shield-based kit gives her built-in control immunity while protected. That makes her a teamfight marksman, not a lane bully, and the best build leans into safe scaling, bounce value, and “I stay alive long enough to chain damage” logic. ([Mobile Legends][8])
+
+**Ratings:** Damage 7 | Burst 5 | DPS 8 | Mobility 3 | Sustain 5 | Durability 6 | CC 3 | Teamfight 9 | Objective 7 | Split Push 6 | Carry 7 | Difficulty 4
+
+**Hero analysis:**
+Best position: Gold Lane.
+Lane priority: survive and farm; her real value comes later in grouped fights.
+Win condition: build a stable shielded damage loop and punish clumped teams.
+Strengths: teamfight bounce damage, anti-CC shield utility, low execution tax.
+Weaknesses: limited mobility, weaker against isolated duels, needs items to matter.
+Power spikes: first crit/on-hit item, shield uptime, late-game teamfight.
+Scaling: Early 5 / Mid 8 / Late 9.
+Passive/skill synergy: bouncing attacks reward attack speed and on-hit more than raw one-hit burst. ([Mobile Legends][8])
+
+**Builds**
+**Core:** Swift Boots → Demon Hunter Sword → Corrosion Scythe → Golden Staff → Wind of Nature → Malefic Roar. Best because it increases bounce frequency, on-hit value, and survivability simultaneously.
+**Max Damage:** Swift Boots → Demon Hunter Sword → Golden Staff → Corrosion Scythe → Malefic Roar → Sea Halberd.
+**Solo Queue:** Tough Boots → Demon Hunter Sword → Corrosion Scythe → Wind of Nature → Rose Gold Meteor → Malefic Roar.
+**Competitive:** Tough Boots → Demon Hunter Sword → Golden Staff → Wind of Nature → Immortality → Malefic Roar.
+**Anti-Tank:** Swift Boots → Demon Hunter Sword → Golden Staff → Sea Halberd → Malefic Roar → Corrosion Scythe.
+**Anti-Burst:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Demon Hunter Sword → Golden Staff.
+**Anti-CC:** Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Malefic Roar → Golden Staff.
+**Snowball:** Swift Boots → Demon Hunter Sword → Corrosion Scythe → Golden Staff → Malefic Roar → Blade of Despair.
+**Late Game:** Tough Boots → Demon Hunter Sword → Golden Staff → Malefic Roar → Wind of Nature → Immortality. ([Mobile Legends][8])
+
+**Emblems**
+
+1. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best overall.
+2. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best if you need longer fight survival.
+3. **Support** — Agility / Pull Yourself Together / Focusing Mark. Niche utility choice for very coordinated drafts.
+   Best Overall: Marksman. Aggressive: Marksman. Defensive: Fighter. Scaling: Marksman.
+
+**Battle spells**
+
+1. **Flicker** — best overall because positioning is everything.
+2. **Inspire** — second best for raw DPS.
+3. **Purify** — situational if the enemy’s CC is layered and delayed.
+
+**Matchups**
+Strong against clumped teams and front-to-back fights.
+Weak against hard dive and long-range poke.
+Hard counters: Saber, Kaja, Franco, Khufra, Natalia.
+Best allies: Atlas, Tigreal, Diggie, Angela, Minotaur.
+Ban priorities: Khufra, Franco, Saber, Kaja.
+
+**Advanced notes:** The standard “safe teamfight marksman” read is correct, but the stronger build is the one that respects her shield timing and keeps WoN available for the first real dive, not as a luxury later slot. ([Mobile Legends][8])
+
+**Final verdict:** Best Build Core; Best Emblem Marksman; Best Talent Setup Fatal / Weapon Master / Quantum Charge; Best Spell Flicker; Current Tier A; Carry Potential 7/10; Difficulty 4/10; Overall Power 7/10.
+
+---
+
+## 8) Kimmy
+
+Kimmy is unusual: the official hero page says she **keeps moving while shooting**, does **not** benefit from attack speed bonus in the normal way, and converts attack speed into magic power. That makes her a build puzzle: you want efficient power conversion, enough movement to kite, and enough durability to keep spraying while drifting. ([Mobile Legends][9])
+
+**Ratings:** Damage 7 | Burst 6 | DPS 8 | Mobility 8 | Sustain 4 | Durability 4 | CC 3 | Teamfight 7 | Objective 7 | Split Push 6 | Carry 7 | Difficulty 7
+
+**Hero analysis:**
+Best position: Gold Lane, with Jungle as a niche.
+Lane priority: poke and zone; don’t overcommit to short-range trades.
+Win condition: keep moving while outputting stable spray damage and kiting slower fronts.
+Strengths: movement while attacking, flexible damage conversion, good poke pattern.
+Weaknesses: short range issues, vulnerable if cornered, item path is less intuitive than standard MMs.
+Power spikes: first conversion item, magic power threshold, mid-game poke control.
+Scaling: Early 6 / Mid 8 / Late 8.
+Passive/skill synergy: attack speed is effectively a stat conversion system, not a direct goal; that is why hybrid magic-power items and movement tools outperform generic MM greed. ([Mobile Legends][9])
+
+**Builds**
+**Core:** Magic Shoes → Glowing Wand → Feather of Heaven → Ice Queen Wand → Holy Crystal → Immortality. This is the most efficient “constant pressure” route because her damage wants movement, burn, and power conversion rather than crit.
+**Max Damage:** Magic Shoes → Glowing Wand → Feather of Heaven → Holy Crystal → Divine Glaive → Blood Wings.
+**Solo Queue:** Tough Boots → Glowing Wand → Feather of Heaven → Ice Queen Wand → Rose Gold Meteor → Immortality.
+**Competitive:** Tough Boots → Glowing Wand → Feather of Heaven → Ice Queen Wand → Divine Glaive → Immortality.
+**Anti-Tank:** Magic Shoes → Glowing Wand → Feather of Heaven → Divine Glaive → Necklace of Durance → Holy Crystal.
+**Anti-Burst:** Tough Boots → Rose Gold Meteor → Immortality → Ice Queen Wand → Glowing Wand → Feather of Heaven.
+**Anti-CC:** Tough Boots → Rose Gold Meteor → Immortality → Ice Queen Wand → Holy Crystal → Feather of Heaven.
+**Snowball:** Magic Shoes → Glowing Wand → Feather of Heaven → Holy Crystal → Divine Glaive → Blood Wings.
+**Late Game:** Tough Boots → Glowing Wand → Feather of Heaven → Ice Queen Wand → Divine Glaive → Immortality. ([Mobile Legends][9])
+
+**Emblems**
+
+1. **Mage** — Rupture / Bargain Hunter / Lethal Ignition. Best overall because it matches her magic conversion and poke burst.
+2. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best if you play a more sustained hybrid version.
+3. **Support** — Agility / Pull Yourself Together / Impure Rage. Defensive poke alternative.
+   Best Overall: Mage. Aggressive: Mage. Defensive: Support. Scaling: Mage.
+
+**Battle spells**
+
+1. **Flicker** — best overall because her survival depends on spacing.
+2. **Aegis** — second best when burst is the real threat.
+3. **Purify** — situational versus CC-heavy teams.
+
+**Matchups**
+Strong against slower front lines and medium-range poke wars.
+Weak against hard dive and highly mobile assassins.
+Hard counters: Saber, Kaja, Franco, Khufra, Fanny.
+Best allies: Atlas, Tigreal, Diggie, Angela, Minotaur.
+Ban priorities: Khufra, Franco, Saber, Kaja.
+
+**Advanced notes:** The common build mistake is copying attack-speed logic from normal marksmen; on Kimmy, the conversion system means **magic power plus movement utility** is usually stronger than greedy physical scaling. In current patch terms, she is a skill-expression poke carry, not a simple crit DPS pick. ([Mobile Legends][9])
+
+**Final verdict:** Best Build Core; Best Emblem Mage; Best Talent Setup Rupture / Bargain Hunter / Lethal Ignition; Best Spell Flicker; Current Tier B+/A-; Carry Potential 7/10; Difficulty 7/10; Overall Power 7/10.
+
+---
+
+### Meta verification summary
+
+Across these eight heroes, the strongest builds are the ones that solve the hero’s actual failure state: **Claude/Wanwan/Karrie/Hanabi** need survival plus attack-speed efficiency, **Beatrix/Granger/YSS** need damage with a protection layer, and **Kimmy** needs conversion-friendly magic power with movement. That is why I prefer earlier defensive slots on most of them instead of the greedier “damage-first, survive later” public builds. ([MLBBHub][10])
+
+[1]: https://liquipedia.net/mobilelegends/Portal%3APatches?utm_source=chatgpt.com "Patches - Liquipedia Mobile Legends: Bang Bang Wiki"
+[2]: https://liquipedia.net/mobilelegends/Claude?utm_source=chatgpt.com "Claude - Liquipedia Mobile Legends: Bang Bang Wiki"
+[3]: https://mobile-legends.fandom.com/wiki/Wanwan?utm_source=chatgpt.com "Wanwan | Mobile Legends: Bang Bang Wiki - Fandom"
+[4]: https://mobile-legends.fandom.com/wiki/Karrie?utm_source=chatgpt.com "Karrie | Mobile Legends: Bang Bang Wiki - Fandom"
+[5]: https://www.mobilelegends.com/hero/detail?heroid=105&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[6]: https://mobile-legends.fandom.com/wiki/Granger?utm_source=chatgpt.com "Granger | Mobile Legends: Bang Bang Wiki - Fandom"
+[7]: https://www.mobilelegends.com/hero/detail?channelid=2678766&heroid=30&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[8]: https://www.mobilelegends.com/hero/detail?channelid=2678796&heroid=60&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[9]: https://www.mobilelegends.com/hero/detail?channelid=2678807&heroid=71&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[10]: https://mlbbhub.com/news/mlbb-patch-2-1-67a-buffs-nerfs-meta-impact?utm_source=chatgpt.com "Best MLBB Patch 2.1.67a Meta Breakdown 2026"
+
+
+
+Patch context: **2.1.67a is the latest patch**, and the immediately preceding 2.1.67/2.1.61 balance sequence pushed the mid lane toward mage-heavy drafts; 2.1.61 buffed **Gord, Luo Yi, Lylia, Kagura** and other mages, while **Zhuxin** was trimmed in 2.1.67a, and 2.1.67 also adjusted Gold Lane Marksman durability. That is why the strongest mage builds here lean toward CDR, mana efficiency, pen, and one safety slot rather than full-greed damage. ([Liquipedia][1])
+
+---
+
+## Valentina
+
+Valentina’s value is flexibility: she is a midlane mage whose whole identity is built around stealing the best enemy ultimate, so her build should maximize spell uptime, magic pen, and the one or two slots that let her survive long enough to copy the right target. Her current emblem guidance also points toward Mage-style damage amplification. ([Mobile Legends][2])
+
+**Role / best position:** Mid Lane.
+**Lane priority:** Very high.
+**Win condition:** Out-tempo enemy mid, hit Lv4 first, then steal a fight-winning ultimate and force objective control.
+**Strengths:** Draft flexibility, high outplay ceiling, elite teamfight swing.
+**Weaknesses:** Damage drops if enemy ults are weak; punished if she builds too greedily.
+**Power spikes:** Lv4, first pen item, two-item breakpoint.
+**Scaling:** Early 8 / Mid 10 / Late 8.
+**Passive & skill synergy:** Her kit rewards cooldown and pen because the hero’s main edge is repeated spell access, not one raw burst rotation. ([Mobile Legends][2])
+
+**Mechanics ratings:** Damage 8 | Burst 8 | DPS 6 | Mobility 8 | Sustain 3 | Durability 4 | Crowd Control 5 | Teamfight 10 | Objective 4 | Split Push 3 | Carry 9 | Difficulty 8
+
+### Builds
+
+1. **Core:** Arcane Boots > Genius Wand > Enchanted Talisman > Holy Crystal > Divine Glaive > Blood Wings.
+   Genius is the best early tempo item, Talisman fixes spam and mana, then the build converts into pen plus scaling AP.
+   **Ratings:** Damage 9 / Survivability 6 / Teamfight 10 / Consistency 9 / Carry 9.
+
+2. **Max Damage:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Winter Crown.
+   Pure kill pressure, with Winter Crown kept last so you do not lose the damage spike too early.
+   **Ratings:** Damage 10 / Survivability 4 / Teamfight 8 / Consistency 7 / Carry 9.
+
+3. **Solo Queue:** Arcane Boots > Genius Wand > Enchanted Talisman > Winter Crown > Holy Crystal > Divine Glaive.
+   Safer than glass cannon because solo queue fights are messy and inconsistent.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 9 / Carry 9.
+
+4. **Competitive:** Tough Boots > Genius Wand > Enchanted Talisman > Divine Glaive > Winter Crown > Blood Wings.
+   This is the most stable coordinated draft version: enough damage to matter, enough safety to keep the copy ultimate alive.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 10 / Consistency 10 / Carry 8.
+
+5. **Anti-Tank:** Arcane Boots > Enchanted Talisman > Genius Wand > Wishing Lantern > Divine Glaive > Holy Crystal.
+   Wishing Lantern solves HP stacking better than another flat-AP slot.
+   **Ratings:** Damage 8 / Survivability 6 / Teamfight 9 / Consistency 9 / Carry 8.
+
+6. **Anti-Burst:** Tough Boots > Athena’s Shield > Winter Crown > Divine Glaive > Genius Wand > Blood Wings.
+   Athena’s plus Winter Crown gives her the breathing room burst comps want to deny.
+   **Ratings:** Damage 7 / Survivability 10 / Teamfight 8 / Consistency 8 / Carry 8.
+
+7. **Anti-CC:** Tough Boots > Winter Crown > Blood Wings > Genius Wand > Divine Glaive > Enchanted Talisman.
+   This is about surviving the first chain, not pretending to be immune to control.
+   **Ratings:** Damage 7 / Survivability 9 / Teamfight 8 / Consistency 8 / Carry 8.
+
+8. **Snowball:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Winter Crown.
+   Best when you are already ahead and can end games off one copied ultimate.
+   **Ratings:** Damage 10 / Survivability 4 / Teamfight 9 / Consistency 7 / Carry 10.
+
+9. **Late Game:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Blood Wings > Winter Crown.
+   Late game Valentina wants uptime, not one extra greedy slot.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 10 / Consistency 10 / Carry 9.
+
+### Emblems
+
+1. **Mage — Flow / Observation / Impure Rage**. Best overall because it improves poke, mana flow, and sustained spell damage.
+2. **Mage — Flow / Observation / Lethal Ignition**. Best aggressive option when you can secure the first pick.
+3. **Support — Agility / Pull Yourself Together / Focusing Mark**. Defensive utility choice for pick-heavy drafts.
+
+**Best overall emblem:** Mage.
+**Aggressive emblem:** Mage with Lethal Ignition.
+**Defensive emblem:** Support-style utility setup.
+**Scaling emblem:** Mage with Impure Rage.
+
+### Battle spells
+
+1. **Flicker** — best overall for positioning and stolen-ult angles.
+2. **Purify** — second best into layered CC.
+3. **Flameshot** — situational for long-range pick and finishing.
+
+### Matchups
+
+**Strong against:** slow teamfight comps, low-utility enemy ults, clumped squads.
+**Weak against:** clean burst dive and drafts that deny safe copying windows.
+**Hard counters:** Kaja, Franco, Saber, Khufra, Valir.
+**Best allies:** Atlas, Tigreal, Minotaur, Diggie, Mathilda.
+**Ban priorities:** Kaja, Franco, Khufra, Saber.
+
+**Advanced notes:** Her biggest hidden edge is that she is stronger when enemy draft quality is high; the better the enemy ultimates, the more she can steal. The common mistake is building her like a pure burst mage and forgetting that the copy ultimate is worth more than one extra AP slot. ([Mobile Legends][2])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Mage** | Best Talent Setup **Flow / Observation / Impure Rage** | Best Spell **Flicker** | Current Tier **S/A** | Carry Potential **9/10** | Difficulty **8/10** | Overall Power **9/10**
+
+---
+
+## Kagura
+
+Kagura is a poke-and-reset mage whose umbrella gives her both damage and repositioning. The official hero page explicitly frames her as poke with **1st skill**, teleport with **2nd skill**, then follow-up damage; that makes her best builds focused on CDR, pen, burst AP, and a safety slot for the post-dive reset. ([Mobile Legends][3])
+
+**Role / best position:** Mid Lane, with niche Roam.
+**Lane priority:** Very high.
+**Win condition:** Win lane through poke, then convert every enemy misstep into a pick.
+**Strengths:** Flexible poke, strong skirmish, excellent safety if played cleanly.
+**Weaknesses:** Mechanical demand, weaker if you miss umbrella management, vulnerable to hard dive.
+**Power spikes:** Lv4, first pen item, two-item burst.
+**Scaling:** Early 8 / Mid 9 / Late 8.
+**Passive & skill synergy:** Her damage pattern rewards repeated umbrella placement and immediate repositioning, so cooldown and pen are more important than gimmick items. ([Mobile Legends][3])
+
+**Mechanics ratings:** Damage 8 | Burst 9 | DPS 6 | Mobility 9 | Sustain 3 | Durability 4 | Crowd Control 5 | Teamfight 8 | Objective 4 | Split Push 3 | Carry 8 | Difficulty 8
+
+### Builds
+
+1. **Core:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Winter Crown > Blood Wings.
+   This is the cleanest tempo route: early pen for lane, AP for midgame burst, Winter Crown so you can actually survive the dive you bait.
+   **Ratings:** Damage 9 / Survivability 7 / Teamfight 8 / Consistency 9 / Carry 8.
+
+2. **Max Damage:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Wishing Lantern.
+   Wishing Lantern is delayed because Kagura wins more by burst windows than sustained poke.
+   **Ratings:** Damage 10 / Survivability 4 / Teamfight 7 / Consistency 7 / Carry 9.
+
+3. **Solo Queue:** Tough Boots > Genius Wand > Holy Crystal > Winter Crown > Divine Glaive > Blood Wings.
+   Safer because solo queue often forces you to be your own frontline.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 8 / Consistency 9 / Carry 8.
+
+4. **Competitive:** Tough Boots > Genius Wand > Enchanted Talisman > Divine Glaive > Winter Crown > Blood Wings.
+   CDR is more valuable here because coordinated fights make repeated umbrella cycles matter.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 9 / Consistency 10 / Carry 8.
+
+5. **Anti-Tank:** Arcane Boots > Genius Wand > Wishing Lantern > Divine Glaive > Holy Crystal > Winter Crown.
+   This is the correct answer when the front line is too thick for pure burst.
+   **Ratings:** Damage 8 / Survivability 6 / Teamfight 8 / Consistency 9 / Carry 8.
+
+6. **Anti-Burst:** Tough Boots > Athena’s Shield > Winter Crown > Divine Glaive > Holy Crystal > Blood Wings.
+   The double layer is there so you survive the return fire after the umbrella engages.
+   **Ratings:** Damage 7 / Survivability 10 / Teamfight 8 / Consistency 8 / Carry 8.
+
+7. **Anti-CC:** Tough Boots > Winter Crown > Blood Wings > Divine Glaive > Genius Wand > Enchanted Talisman.
+   More about surviving the first chain and still having one clean reposition.
+   **Ratings:** Damage 7 / Survivability 9 / Teamfight 8 / Consistency 8 / Carry 7.
+
+8. **Snowball:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Winter Crown.
+   Best when you are already winning lane and can force every river fight.
+   **Ratings:** Damage 10 / Survivability 4 / Teamfight 8 / Consistency 7 / Carry 9.
+
+9. **Late Game:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Blood Wings > Winter Crown.
+   Late-game Kagura wants repeated control, not one extra greedy slot.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 8.
+
+### Emblems
+
+1. **Mage — Flow / Observation / Impure Rage**. Best overall for poke and lane control.
+2. **Mage — Flow / Observation / Lethal Ignition**. Best aggressive burst setup.
+3. **Support — Agility / Pull Yourself Together / Focusing Mark**. Best defensive utility setup.
+
+**Best overall emblem:** Mage.
+**Aggressive emblem:** Mage with Lethal Ignition.
+**Defensive emblem:** Support utility setup.
+**Scaling emblem:** Mage with Impure Rage.
+
+### Battle spells
+
+1. **Flicker** — best overall because Kagura’s threat is angle-based.
+2. **Purify** — second best into hard CC.
+3. **Flameshot** — situational for range and finish.
+
+### Matchups
+
+**Strong against:** immobile mids, short-range mages, clumped teamfights.
+**Weak against:** hard dive and long-range poke that outranges umbrella control.
+**Hard counters:** Franco, Kaja, Saber, Khufra, Valir.
+**Best allies:** Atlas, Tigreal, Minotaur, Diggie, Mathilda.
+**Ban priorities:** Khufra, Franco, Kaja, Saber.
+
+**Advanced notes:** Kagura is strongest when you treat her as a tempo mage, not a random burst mage. The popular “just build raw AP” habit is weaker than **Genius Wand + one safety slot** because her real edge is repeated umbrella cycling and surviving the counter-engage. ([Mobile Legends][3])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Mage** | Best Talent Setup **Flow / Observation / Impure Rage** | Best Spell **Flicker** | Current Tier **A/S** | Carry Potential **8/10** | Difficulty **8/10** | Overall Power **8/10**
+
+---
+
+## Zhuxin
+
+Zhuxin is a control mage whose entire identity is sustained disruption. Officially, her story and hero profile describe her as the **Beacon of Spirits** with ember-butterfly control, and Liquipedia notes she remains in active competitive discussion in 2.1.67a; the patch nerfed her shield/damage reliability, so the strongest builds now lean into utility, CDR, and one survival layer rather than all-in burst. ([Mobile Legends][4])
+
+**Role / best position:** Mid Lane.
+**Lane priority:** High.
+**Win condition:** Drag fights into your control zones and make the enemy spend dashes badly.
+**Strengths:** Disruption, zoning, teamfight control, huge setup value.
+**Weaknesses:** Damage is not the point; highly mobile enemies can escape her control patterns.
+**Power spikes:** Lv4, first CDR item, teamfight choke points.
+**Scaling:** Early 7 / Mid 9 / Late 8.
+**Passive & skill synergy:** She wants repeated uptime more than pure burst, especially after the 2.1.67a trim to her shield/damage ceiling. ([Mobile Legends][4])
+
+**Mechanics ratings:** Damage 6 | Burst 6 | DPS 5 | Mobility 5 | Sustain 4 | Durability 5 | Crowd Control 10 | Teamfight 10 | Objective 5 | Split Push 2 | Carry Potential 8 | Difficulty 7
+
+### Builds
+
+1. **Core:** Arcane Boots > Enchanted Talisman > Glowing Wand > Ice Queen Wand > Divine Glaive > Winter Crown.
+   This is the most efficient “control first” setup: mana solved, burn applied, slows stacked, then pen and a safety layer.
+   **Ratings:** Damage 7 / Survivability 8 / Teamfight 10 / Consistency 10 / Carry 8.
+
+2. **Max Damage:** Arcane Boots > Genius Wand > Glowing Wand > Holy Crystal > Divine Glaive > Blood Wings.
+   More kill pressure, but you lose some of the control identity that actually wins her fights.
+   **Ratings:** Damage 9 / Survivability 4 / Teamfight 8 / Consistency 7 / Carry 8.
+
+3. **Solo Queue:** Tough Boots > Enchanted Talisman > Glowing Wand > Ice Queen Wand > Winter Crown > Blood Wings.
+   Better because solo queue requires self-peel and long-fight stability.
+   **Ratings:** Damage 7 / Survivability 9 / Teamfight 10 / Consistency 10 / Carry 8.
+
+4. **Competitive:** Tough Boots > Enchanted Talisman > Ice Queen Wand > Divine Glaive > Winter Crown > Glowing Wand.
+   This is the most draft-friendly version for coordinated picks and chokes.
+   **Ratings:** Damage 7 / Survivability 9 / Teamfight 10 / Consistency 10 / Carry 8.
+
+5. **Anti-Tank:** Arcane Boots > Enchanted Talisman > Glowing Wand > Wishing Lantern > Divine Glaive > Winter Crown.
+   Wishing Lantern matters more than another AP slot when frontlines are too healthy.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 10 / Consistency 10 / Carry 8.
+
+6. **Anti-Burst:** Tough Boots > Athena’s Shield > Winter Crown > Divine Glaive > Blood Wings > Enchanted Talisman.
+   The point is to live through the first dive, not to beat burst at its own game.
+   **Ratings:** Damage 6 / Survivability 10 / Teamfight 9 / Consistency 9 / Carry 8.
+
+7. **Anti-CC:** Tough Boots > Winter Crown > Blood Wings > Enchanted Talisman > Glowing Wand > Divine Glaive.
+   This is a “stay relevant after the first chain” setup.
+   **Ratings:** Damage 6 / Survivability 9 / Teamfight 9 / Consistency 9 / Carry 7.
+
+8. **Snowball:** Arcane Boots > Genius Wand > Glowing Wand > Holy Crystal > Divine Glaive > Winter Crown.
+   Best if the enemy cannot leave your control zone alive.
+   **Ratings:** Damage 9 / Survivability 4 / Teamfight 9 / Consistency 7 / Carry 9.
+
+9. **Late Game:** Tough Boots > Enchanted Talisman > Glowing Wand > Ice Queen Wand > Divine Glaive > Winter Crown.
+   Late Zhuxin should win fights by control uptime, not by pretending to be a burst mage.
+   **Ratings:** Damage 7 / Survivability 8 / Teamfight 10 / Consistency 10 / Carry 8.
+
+### Emblems
+
+1. **Mage — Flow / Observation / Impure Rage**. Best overall.
+2. **Mage — Flow / Observation / Lethal Ignition**. Aggressive alternate.
+3. **Support — Agility / Pull Yourself Together / Focusing Mark**. Defensive utility route.
+
+**Best overall emblem:** Mage.
+**Aggressive emblem:** Mage with Lethal Ignition.
+**Defensive emblem:** Support utility setup.
+**Scaling emblem:** Mage with Impure Rage.
+
+### Battle spells
+
+1. **Flicker** — best overall for control angles.
+2. **Flameshot** — second best for range and shove.
+3. **Purify** — situational if the enemy layers hard CC.
+
+### Matchups
+
+**Strong against:** short-range teams, grouped drafts, slow frontline comps.
+**Weak against:** dash-heavy heroes and dive that exits her control radius.
+**Hard counters:** Fanny, Ling, Hayabusa, Joy, Saber.
+**Best allies:** Atlas, Tigreal, Minotaur, Khufra, Diggie.
+**Ban priorities:** Fanny, Ling, Saber, Joy.
+
+**Advanced notes:** Her strongest build is not the biggest AP stack; it is the build that keeps the control loop running after the first engage. Since 2.1.67a trimmed her shield/damage ceiling, **utility stacking is more valuable than greed**. ([Liquipedia][5])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Mage** | Best Talent Setup **Flow / Observation / Impure Rage** | Best Spell **Flicker** | Current Tier **A** | Carry Potential **8/10** | Difficulty **7/10** | Overall Power **7/10**
+
+---
+
+## Luo Yi
+
+Luo Yi is a reaction mage. Her official hero page says her **Sigils of Yin/Yang** trigger **Yin-Yang Reaction**, which means her value comes from repeated spell cycling, teamfight disruption, and the ability to punish clumped enemies. That makes CDR and mana more important than raw burst greed. ([Mobile Legends][6])
+
+**Role / best position:** Mid Lane.
+**Lane priority:** High.
+**Win condition:** Stack sigils, force Yin-Yang reaction, and turn grouped fights into map collapse.
+**Strengths:** Teamfight utility, rotation speed, punish on clumped enemies.
+**Weaknesses:** Needs setup; less impressive if fights are scattered.
+**Power spikes:** Lv4, first CDR item, first team rotation.
+**Scaling:** Early 7 / Mid 9 / Late 8.
+**Passive & skill synergy:** Repeated casting and positioning matter more than one raw AP nuke. ([Mobile Legends][6])
+
+**Mechanics ratings:** Damage 7 | Burst 6 | DPS 6 | Mobility 6 | Sustain 3 | Durability 4 | Crowd Control 8 | Teamfight 9 | Objective 5 | Split Push 3 | Carry Potential 8 | Difficulty 7
+
+### Builds
+
+1. **Core:** Arcane Boots > Enchanted Talisman > Genius Wand > Glowing Wand > Divine Glaive > Winter Crown.
+   Talisman solves mana and spam, Genius gives lane leverage, Glowing helps with long fight pressure, Winter Crown keeps you alive after the teleport or engage.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 8.
+
+2. **Max Damage:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Glowing Wand.
+   Burstier, but you give up some of the long-fight value Luo Yi actually wants.
+   **Ratings:** Damage 9 / Survivability 4 / Teamfight 8 / Consistency 7 / Carry 8.
+
+3. **Solo Queue:** Tough Boots > Enchanted Talisman > Genius Wand > Winter Crown > Divine Glaive > Blood Wings.
+   Safer when teammates do not capitalize on your set.
+   **Ratings:** Damage 7 / Survivability 9 / Teamfight 9 / Consistency 10 / Carry 8.
+
+4. **Competitive:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Winter Crown > Blood Wings.
+   Best for coordinated engage and response timing.
+   **Ratings:** Damage 7 / Survivability 9 / Teamfight 9 / Consistency 10 / Carry 8.
+
+5. **Anti-Tank:** Arcane Boots > Enchanted Talisman > Glowing Wand > Wishing Lantern > Divine Glaive > Winter Crown.
+   This solves the “their front line will not die” problem better than extra AP.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 8.
+
+6. **Anti-Burst:** Tough Boots > Athena’s Shield > Winter Crown > Divine Glaive > Blood Wings > Enchanted Talisman.
+   Enough safety to survive the response dive.
+   **Ratings:** Damage 6 / Survivability 10 / Teamfight 8 / Consistency 9 / Carry 7.
+
+7. **Anti-CC:** Tough Boots > Winter Crown > Blood Wings > Enchanted Talisman > Genius Wand > Divine Glaive.
+   Survive the first chain, then keep casting.
+   **Ratings:** Damage 6 / Survivability 9 / Teamfight 8 / Consistency 9 / Carry 7.
+
+8. **Snowball:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Glowing Wand > Winter Crown.
+   Best when you are already rotating faster than the enemy can answer.
+   **Ratings:** Damage 9 / Survivability 4 / Teamfight 9 / Consistency 7 / Carry 9.
+
+9. **Late Game:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Blood Wings > Winter Crown.
+   Late Luo Yi wants more cycles, not pure one-shot greed.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 8.
+
+### Emblems
+
+1. **Mage — Flow / Observation / Impure Rage**. Best overall.
+2. **Mage — Flow / Observation / Lethal Ignition**. Aggressive option.
+3. **Support — Agility / Pull Yourself Together / Focusing Mark**. Defensive utility option.
+
+**Best overall emblem:** Mage.
+**Aggressive emblem:** Mage with Lethal Ignition.
+**Defensive emblem:** Support utility setup.
+**Scaling emblem:** Mage with Impure Rage.
+
+### Battle spells
+
+1. **Flicker** — best overall for angle changes.
+2. **Purify** — second best versus hard CC.
+3. **Flameshot** — situational for pushback and finish.
+
+### Matchups
+
+**Strong against:** grouped teams, slow rotations, front-to-back brawls.
+**Weak against:** spread formations and highly mobile dive.
+**Hard counters:** Ling, Fanny, Hayabusa, Saber, Kaja.
+**Best allies:** Atlas, Tigreal, Minotaur, Khufra, Diggie.
+**Ban priorities:** Ling, Fanny, Saber, Kaja.
+
+**Advanced notes:** Her popular build is usually close to correct, but the stronger version is the one that respects how often you will actually cast and rotate in real games. With the mage-buff wave still relevant in S40, Luo Yi remains one of the best “fight shape” mages. ([Mobile Legends][6])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Mage** | Best Talent Setup **Flow / Observation / Impure Rage** | Best Spell **Flicker** | Current Tier **A** | Carry Potential **8/10** | Difficulty **7/10** | Overall Power **8/10**
+
+---
+
+## Lylia
+
+Lylia is a skirmish mage with immense movement value. The official hero page says **Gloom** increases her movement speed and upgrades repeatedly; that makes her best builds revolve around mana, CDR, burst cycling, and a defensive reset slot so she can keep re-entering fights. ([Mobile Legends][7])
+
+**Role / best position:** Mid Lane.
+**Lane priority:** High.
+**Win condition:** Win short trades, then chain explosive bomb cycles and reset safely.
+**Strengths:** Excellent mobility, strong anti-dive, great lane harassment.
+**Weaknesses:** Can be forced out if she burns ult poorly; range is not endless.
+**Power spikes:** Lv4, first CDR/mana item, first full bomb cycle.
+**Scaling:** Early 8 / Mid 9 / Late 8.
+**Passive & skill synergy:** Gloom stacking rewards constant pressure and movement, so anything that helps her cast more often is premium. ([Mobile Legends][7])
+
+**Mechanics ratings:** Damage 8 | Burst 8 | DPS 6 | Mobility 9 | Sustain 4 | Durability 5 | Crowd Control 4 | Teamfight 8 | Objective 5 | Split Push 4 | Carry Potential 8 | Difficulty 7
+
+### Builds
+
+1. **Core:** Arcane Boots > Enchanted Talisman > Genius Wand > Winter Crown > Holy Crystal > Divine Glaive.
+   Talisman fixes mana and spam, Genius secures lane and midgame, Winter Crown makes her reset actually matter.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 8 / Consistency 10 / Carry 8.
+
+2. **Max Damage:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Wishing Lantern.
+   Best if you just want the bomb cycle to erase squishies.
+   **Ratings:** Damage 10 / Survivability 4 / Teamfight 7 / Consistency 7 / Carry 8.
+
+3. **Solo Queue:** Tough Boots > Enchanted Talisman > Genius Wand > Winter Crown > Blood Wings > Divine Glaive.
+   More forgiving because solo queue punishes greedy bomb mispositioning.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 8 / Consistency 9 / Carry 8.
+
+4. **Competitive:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Winter Crown > Blood Wings.
+   Best for coordinated skirmish control and objective fights.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 9 / Consistency 10 / Carry 8.
+
+5. **Anti-Tank:** Arcane Boots > Enchanted Talisman > Wishing Lantern > Genius Wand > Divine Glaive > Winter Crown.
+   Wishing Lantern is the best answer when frontliners refuse to die.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 8.
+
+6. **Anti-Burst:** Tough Boots > Athena’s Shield > Winter Crown > Blood Wings > Divine Glaive > Enchanted Talisman.
+   This makes the reset survive the counterburst.
+   **Ratings:** Damage 6 / Survivability 10 / Teamfight 8 / Consistency 9 / Carry 7.
+
+7. **Anti-CC:** Tough Boots > Winter Crown > Blood Wings > Enchanted Talisman > Genius Wand > Divine Glaive.
+   You are buying time to get your ult and second bomb cycle back.
+   **Ratings:** Damage 6 / Survivability 9 / Teamfight 8 / Consistency 9 / Carry 7.
+
+8. **Snowball:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Winter Crown.
+   Best if you can keep enemies in your bomb zone all game.
+   **Ratings:** Damage 9 / Survivability 5 / Teamfight 9 / Consistency 7 / Carry 9.
+
+9. **Late Game:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Blood Wings > Winter Crown.
+   Late Lylia should be hard to catch and impossible to fully burst.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 9 / Consistency 10 / Carry 8.
+
+### Emblems
+
+1. **Mage — Flow / Observation / Impure Rage**. Best overall.
+2. **Mage — Flow / Observation / Lethal Ignition**. Aggressive burst variant.
+3. **Support — Agility / Pull Yourself Together / Focusing Mark**. Defensive utility variant.
+
+**Best overall emblem:** Mage.
+**Aggressive emblem:** Mage with Lethal Ignition.
+**Defensive emblem:** Support utility setup.
+**Scaling emblem:** Mage with Impure Rage.
+
+### Battle spells
+
+1. **Flicker** — best overall for space and reset.
+2. **Purify** — second best when the enemy’s CC is the real threat.
+3. **Flameshot** — situational for finisher and spacing.
+
+### Matchups
+
+**Strong against:** melee divers, clumped teamfights, close-range mids.
+**Weak against:** long-range poke and hard backline access.
+**Hard counters:** Fanny, Ling, Saber, Joy, Kaja.
+**Best allies:** Atlas, Tigreal, Minotaur, Khufra, Diggie.
+**Ban priorities:** Fanny, Ling, Saber, Kaja.
+
+**Advanced notes:** The common mistake is going full damage too early and losing the reset window. In this patch environment, her strongest form is still a **tempo mage with one survival bridge**, not a fake assassin. ([Mobile Legends][7])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Mage** | Best Talent Setup **Flow / Observation / Impure Rage** | Best Spell **Flicker** | Current Tier **A** | Carry Potential **8/10** | Difficulty **7/10** | Overall Power **8/10**
+
+---
+
+## Gord
+
+Gord is a classic control-burst mage whose damage gets much more dangerous when the enemy cannot reposition. The official hero page says he should stun with **Skill 1**, then follow with **Skill 2** and **Ultimate** for the kill; that means the best builds maximize mana, CDR, pen, and one layer of self-peel. ([Mobile Legends][8])
+
+**Role / best position:** Mid Lane.
+**Lane priority:** High, but weaker than the more mobile mages.
+**Win condition:** Land the stun and channel beam damage in fights where enemies are already disrupted.
+**Strengths:** Very high zone damage, excellent punish in choke points.
+**Weaknesses:** Stationary channeling, vulnerable to dive, needs protection.
+**Power spikes:** Lv4, first CDR item, first pen item.
+**Scaling:** Early 6 / Mid 9 / Late 8.
+**Passive & skill synergy:** Anything that keeps enemies from moving or keeps Gord alive while channeling increases his value dramatically. ([Mobile Legends][8])
+
+**Mechanics ratings:** Damage 8 | Burst 8 | DPS 8 | Mobility 2 | Sustain 3 | Durability 3 | Crowd Control 6 | Teamfight 9 | Objective 4 | Split Push 2 | Carry Potential 7 | Difficulty 5
+
+### Builds
+
+1. **Core:** Arcane Boots > Enchanted Talisman > Genius Wand > Glowing Wand > Divine Glaive > Winter Crown.
+   This solves his mana problem, gives lane pen, then adds sustained beam damage plus the safety to actually finish a channel.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 7.
+
+2. **Max Damage:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Glowing Wand.
+   Best raw beam numbers, but it is riskier because you die if the channel gets interrupted.
+   **Ratings:** Damage 10 / Survivability 3 / Teamfight 8 / Consistency 7 / Carry 7.
+
+3. **Solo Queue:** Tough Boots > Enchanted Talisman > Genius Wand > Winter Crown > Divine Glaive > Blood Wings.
+   Solo queue is full of random dives, so Gord needs a survival layer earlier than the greed build.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 9 / Consistency 9 / Carry 7.
+
+4. **Competitive:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Winter Crown > Blood Wings.
+   This is the best coordinated-team version because your allies can actually protect the beam.
+   **Ratings:** Damage 8 / Survivability 9 / Teamfight 10 / Consistency 10 / Carry 7.
+
+5. **Anti-Tank:** Arcane Boots > Enchanted Talisman > Glowing Wand > Wishing Lantern > Divine Glaive > Winter Crown.
+   Wishing Lantern is the best tank answer when the enemy line refuses to collapse.
+   **Ratings:** Damage 9 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 7.
+
+6. **Anti-Burst:** Tough Boots > Athena’s Shield > Winter Crown > Divine Glaive > Blood Wings > Enchanted Talisman.
+   The goal is surviving long enough to start the second beam window.
+   **Ratings:** Damage 6 / Survivability 10 / Teamfight 8 / Consistency 9 / Carry 6.
+
+7. **Anti-CC:** Tough Boots > Winter Crown > Blood Wings > Enchanted Talisman > Genius Wand > Divine Glaive.
+   This is the “I must live through one engage” version.
+   **Ratings:** Damage 6 / Survivability 9 / Teamfight 8 / Consistency 9 / Carry 6.
+
+8. **Snowball:** Arcane Boots > Genius Wand > Holy Crystal > Divine Glaive > Blood Wings > Winter Crown.
+   Best when your stun setup is already landing cleanly.
+   **Ratings:** Damage 9 / Survivability 4 / Teamfight 9 / Consistency 7 / Carry 7.
+
+9. **Late Game:** Tough Boots > Enchanted Talisman > Genius Wand > Divine Glaive > Blood Wings > Winter Crown.
+   Late Gord wants enough survivability to keep the beam active in longer fights.
+   **Ratings:** Damage 8 / Survivability 8 / Teamfight 9 / Consistency 10 / Carry 7.
+
+### Emblems
+
+1. **Mage — Flow / Observation / Impure Rage**. Best overall.
+2. **Mage — Flow / Observation / Lethal Ignition**. Best aggressive setup.
+3. **Support — Agility / Pull Yourself Together / Focusing Mark**. Best defensive setup.
+
+**Best overall emblem:** Mage.
+**Aggressive emblem:** Mage with Lethal Ignition.
+**Defensive emblem:** Support utility setup.
+**Scaling emblem:** Mage with Impure Rage.
+
+### Battle spells
+
+1. **Flicker** — best overall because Gord needs angle correction and escape.
+2. **Purify** — second best into dive/CC.
+3. **Flameshot** — situational for finishing and pushback.
+
+### Matchups
+
+**Strong against:** grouped enemies, slow melee teams, choke fights.
+**Weak against:** fast dive, hard flank, and anyone who can disrupt channeling.
+**Hard counters:** Fanny, Ling, Saber, Hayabusa, Natalia.
+**Best allies:** Atlas, Tigreal, Minotaur, Khufra, Diggie.
+**Ban priorities:** Fanny, Ling, Saber, Hayabusa.
+
+**Advanced notes:** The common mistake is treating Gord like a burst mage that can stand alone. The better way is to draft or play him as a **beam finisher behind a real front line**; the patch’s mage-friendliness helps him, but only if the channel stays protected. ([Mobile Legends][8])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Mage** | Best Talent Setup **Flow / Observation / Impure Rage** | Best Spell **Flicker** | Current Tier **A-/B+** | Carry Potential **7/10** | Difficulty **5/10** | Overall Power **7/10**
+
+---
+
+## Meta verification
+
+Across these six mages, the popular “full damage every game” instinct is not optimal. The stronger alternative is:
+
+* **Valentina/Kagura**: pen + one safety slot.
+* **Zhuxin/Luo Yi**: CDR + utility + one survival slot.
+* **Lylia**: spam + reset protection.
+* **Gord**: mana + pen + anti-dive safety.
+  That fits the current patch environment better than raw greed because the live balance cadence favors mages that can keep casting after the first engage rather than die instantly to dive. ([Liquipedia][1])
+
+If you want the next batch, I can do **Paquito, Chou, Argus, Dyrroth** in the same format.
+
+[1]: https://liquipedia.net/mobilelegends/Portal%3APatches?utm_source=chatgpt.com "Patches - Liquipedia Mobile Legends: Bang Bang Wiki"
+[2]: https://play.mobilelegends.com/lore/hero/Valentina?utm_source=chatgpt.com "Valentina - Mobile Legends: Bang Bang"
+[3]: https://www.mobilelegends.com/hero/detail?heroid=25&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[4]: https://play.mobilelegends.com/lore/albumitem/257/1/en?utm_source=chatgpt.com "Zhuxin"
+[5]: https://liquipedia.net/mobilelegends/Patch_2.1.67a?utm_source=chatgpt.com "Patch 2.1.67a - Liquipedia Mobile Legends"
+[6]: https://www.mobilelegends.com/hero/detail?channelid=2678832&heroid=96&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[7]: https://www.mobilelegends.com/hero/detail?channelid=2678822&heroid=86&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[8]: https://www.mobilelegends.com/hero/detail?channelid=2678759&heroid=23&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+
+
+Current patch context: **2.1.67a is the latest listed MLBB patch**, with 2.1.67 immediately before it. That matters here because **Paquito** got a 2.1.67a minion-damage bump on enhanced skills, and **Dyrroth** got a 2.1.67 laning-phase adjustment to Skill 1. The four heroes here are therefore judged as: **Paquito = tempo bruiser-carry**, **Chou = utility pickoff**, **Argus = sidelane scaler**, **Dyrroth = early bully / anti-tank skirmisher**. ([Liquipedia][1])
+
+---
+
+# Paquito
+
+Paquito’s kit is built around **Champ Stance**: after every 3 skill casts, he gets an empowered skill that ignores cooldowns and grants a movement burst, which is why he is best as a **tempo EXP laner** or **snowball jungle** rather than a pure burst gamble. His current patch edge is the 2.1.67a boost to enhanced skill damage against minions, which improves lane control and shove speed. ([Mobile Legends Wiki][2])
+
+**Role & best position:** EXP first, Jungle second.
+**Lane priority:** Very high.
+**Win condition:** Win short trades, convert Champ Stance into a kill or forced recall, then translate the lane lead into side pressure and skirmish control.
+**Strengths:** fast cycling, high burst, good mobility, strong early duel.
+**Weaknesses:** punished when cooldowns are wasted, less efficient into heavy armor + hard peel.
+**Power spikes:** level 2, level 4, first 1–2 items, full Champ Stance control.
+**Scaling:** Early 9 / Mid 8 / Late 6.
+**Passive & skill synergy:** the hero gets paid for clean sequencing; your items should make each empowered cast more lethal or let you survive after entry. ([Mobile Legends Wiki][2])
+
+**Mechanics ratings**
+Damage 8 | Burst 9 | DPS 6 | Mobility 8 | Sustain 6 | Durability 6 | Crowd Control 4 | Teamfight Impact 7 | Objective Control 6 | Split Push 7 | Carry Potential 8 | Difficulty 8
+
+### Builds
+
+**1. Core Build**
+Tough Boots → Hunter Strike → War Axe → Malefic Roar → Queen’s Wings → Immortality
+This is the best balance of damage, chase, and survivability. Hunter Strike helps you keep Champ Stance flow, War Axe fits extended trading, Malefic Roar stops armor from deleting your combo, and the last two slots keep you alive after dive.
+
+**2. Max Damage Build**
+Tough Boots → Hunter Strike → War Axe → Blade of Despair → Malefic Roar → Sky Piercer
+Best if you are already snowballing and the enemy backline is exposed. More kill pressure, less forgiveness.
+
+**3. Solo Queue Build**
+Tough Boots → Hunter Strike → Queen’s Wings → War Axe → Malefic Roar → Immortality
+Safer when fights are messy and you have to create your own exit.
+
+**4. Competitive Build**
+Tough Boots → Hunter Strike → War Axe → Queen’s Wings → Malefic Roar → Immortality
+Best in coordinated drafts because it preserves dive value without donating shutdown gold.
+
+**5. Anti-Tank Build**
+Tough Boots → War Axe → Hunter Strike → Malefic Roar → Sea Halberd → Blade of Despair
+This is the version for armor stack + healing front lines.
+
+**6. Anti-Burst Build**
+Tough Boots → Athena’s Shield → Queen’s Wings → War Axe → Immortality → Malefic Roar
+The point is to survive the counterburst after your engage, not to win a damage race.
+
+**7. Anti-CC Build**
+Tough Boots → Brute Force Breastplate → Queen’s Wings → Immortality → War Axe → Malefic Roar
+You are buying time and movement to stay relevant after the first lockdown.
+
+**8. Snowball Build**
+Tough Boots → Hunter Strike → War Axe → Blade of Despair → Sky Piercer → Malefic Roar
+When ahead, this is the fastest way to turn a lane lead into a closed game.
+
+**9. Late Game Build**
+Tough Boots → Hunter Strike → War Axe → Malefic Roar → Queen’s Wings → Immortality
+Late game needs stability more than greed.
+
+### Build ratings
+
+Core: Damage 8 / Survivability 8 / Teamfight 8 / Consistency 9 / Carry 8
+Max Damage: 10 / 4 / 7 / 6 / 9
+Solo Queue: 8 / 9 / 8 / 9 / 8
+Competitive: 8 / 9 / 9 / 10 / 8
+Anti-Tank: 8 / 7 / 8 / 8 / 8
+Anti-Burst: 7 / 10 / 8 / 9 / 8
+Anti-CC: 6 / 9 / 8 / 8 / 7
+Snowball: 10 / 4 / 7 / 6 / 9
+Late Game: 8 / 8 / 8 / 9 / 8
+
+### Emblems
+
+**Top 3**
+
+1. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best overall because Paquito wants bruiser uptime and self-heal after entry.
+2. **Assassin** — Rupture / Weapons Master / Killing Spree. Best if you want cleaner burst and resets.
+3. **Fighter** — Agility / Festival of Blood / Brave Smite. Best defensive fallback.
+
+**Best Overall Emblem:** Fighter
+**Aggressive Emblem:** Assassin
+**Defensive Emblem:** Fighter
+**Scaling Emblem:** Fighter
+
+### Battle spells
+
+1. **Flicker** — best overall for angle changes and escape after combo.
+2. **Execute** — best for kill confirmation in lane or snowball builds.
+3. **Retribution** — situational only if you jungle.
+
+### Matchups
+
+**Strong against:** squishy backlines, short-range duelists, slow bruisers.
+**Weak against:** heavy armor stacking, high peel, long CC chains.
+**Hard counters:** Khufra, Franco, Kaja, Valir, Minsitthar.
+**Best allies:** Atlas, Tigreal, Mathilda, Diggie, Angela.
+**Ban priorities:** Khufra, Franco, Kaja.
+
+### Advanced notes
+
+Hidden synergy: the minion buff on enhanced skills makes his lane shove more reliable this patch, so you can convert short trades into wave advantage more often. Common mistake: spending Champ Stance too early just to “do damage.” Better to use it to win the fight state. ([Liquipedia][3])
+
+**Meta verification:** The popular damage-heavy Paquito builds are playable, but the stronger default in real ranked games is a **bruiser-first build with one defensive bridge**.
+**Final verdict:** Best Build **Core** | Best Emblem **Fighter** | Best Talent Setup **Vitality / Festival of Blood / Brave Smite** | Best Spell **Flicker** | Current Tier **A/S** | Carry Potential **8/10** | Difficulty **8/10** | Overall Power **8/10**
+
+---
+
+# Chou
+
+Chou is still the classic isolation pick. His passive rewards movement by empowering the next basic attack, and his ultimate is still one of the most reliable non-tank isolation tools in the game; that makes him much better as a **roam utility/peel/pick** hero than as a greedy damage fighter in modern drafts. ([Mobile Legends Wiki][4])
+
+**Role & best position:** Roam first, EXP second.
+**Lane priority:** High if roaming, medium in EXP.
+**Win condition:** Force a pick on the enemy carry and turn it into an objective.
+**Strengths:** isolation, disruption, flexible playmaking, strong pick angles.
+**Weaknesses:** damage builds are inconsistent, and he loses value if he cannot find clean ult targets.
+**Power spikes:** level 4, first defensive item, first successful pick.
+**Scaling:** Early 7 / Mid 7 / Late 6.
+**Passive & skill synergy:** movement-based passive means build and emblem choices should improve uptime, not just one punch. ([Mobile Legends Wiki][4])
+
+**Mechanics ratings**
+Damage 5 | Burst 6 | DPS 4 | Mobility 9 | Sustain 4 | Durability 8 | Crowd Control 8 | Teamfight Impact 8 | Objective Control 5 | Split Push 4 | Carry Potential 6 | Difficulty 8
+
+### Builds
+
+**1. Core Build**
+Tough Boots → Dominance Ice → Antique Cuirass → Blade Armor → Immortality → Athena’s Shield
+This is the best “real Chou” setup: survive the dive, force the kick, keep creating space.
+
+**2. Max Damage Build**
+Tough Boots → Hunter Strike → Blade of Despair → Malefic Roar → Sky Piercer → Immortality
+Only worth it when your team already has frontline and you are explicitly playing for assassination.
+
+**3. Solo Queue Build**
+Tough Boots → Dominance Ice → Hunter Strike → Antique Cuirass → Immortality → Athena’s Shield
+Safer in random games because it still lets you pick while not dying instantly.
+
+**4. Competitive Build**
+Tough Boots → Dominance Ice → Antique Cuirass → Immortality → Blade Armor → Athena’s Shield
+This is the best draft-friendly version; utility > vanity damage.
+
+**5. Anti-Tank Build**
+Tough Boots → Dominance Ice → Sea Halberd → Antique Cuirass → Malefic Roar → Immortality
+Only use this when your team needs Chou to help break sustain and armor, not just peel.
+
+**6. Anti-Burst Build**
+Tough Boots → Athena’s Shield → Antique Cuirass → Immortality → Dominance Ice → Blade Armor
+This is the safest way to reach the ult cast.
+
+**7. Anti-CC Build**
+Tough Boots → Toughness via itemization doesn’t exist here, so prioritize Athena’s Shield → Immortality → Antique Cuirass → Dominance Ice → Blade Armor
+The goal is to keep enough health to finish the pick after the first control chain.
+
+**8. Snowball Build**
+Tough Boots → Hunter Strike → Dominance Ice → Blade of Despair → Malefic Roar → Immortality
+Best only when you are already chaining picks and the enemy has no peel.
+
+**9. Late Game Build**
+Tough Boots → Dominance Ice → Antique Cuirass → Blade Armor → Immortality → Athena’s Shield
+Late Chou is a utility body, so build to survive and kick the right target.
+
+### Build ratings
+
+Core: 4 / 10 / 8 / 10 / 6
+Max Damage: 8 / 4 / 4 / 5 / 7
+Solo Queue: 5 / 8 / 7 / 8 / 6
+Competitive: 4 / 9 / 9 / 10 / 5
+Anti-Tank: 5 / 8 / 7 / 8 / 6
+Anti-Burst: 4 / 10 / 8 / 9 / 5
+Anti-CC: 4 / 9 / 8 / 8 / 5
+Snowball: 7 / 5 / 5 / 6 / 7
+Late Game: 4 / 9 / 8 / 10 / 5
+
+### Emblems
+
+**Top 3**
+
+1. **Tank** — Vitality / Tenacity / Concussive Blast. Best overall because it makes Chou a real engage/pick tool.
+2. **Fighter** — Agility / Festival of Blood / Brave Smite. Best if you insist on more lane pressure.
+3. **Assassin** — Rupture / Weapons Master / Killing Spree. Best for damage-pick play.
+
+**Best Overall Emblem:** Tank
+**Aggressive Emblem:** Assassin
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Fighter
+
+### Battle spells
+
+1. **Flicker** — best overall for kick angles.
+2. **Execute** — second best if you want lane and pick finish.
+3. **Purify** — situational if you are being locked down before ult.
+
+### Matchups
+
+**Strong against:** immobile carries, greedy backlines, low-peel drafts.
+**Weak against:** direct burst, anti-dash zones, and layered peel.
+**Hard counters:** Khufra, Franco, Kaja, Valir, Minsitthar.
+**Best allies:** burst mages, dive assassins, grouped teamfight setters.
+**Ban priorities:** Franco, Kaja, Khufra.
+
+### Advanced notes
+
+Hidden synergy: Chou gets more value from durability than most fighters because his job is to live through the entry and isolate the carry, not out-DPS everyone. The current meta assumption that “damage Chou is the fun build” is still weaker than tank/utility Chou in serious games. ([Mobile Legends Wiki][4])
+
+**Meta verification:** Popular damage Chou is usually not optimal; **tank Chou roam** is stronger because it keeps the pick threat alive longer.
+**Final verdict:** Best Build **Core** | Best Emblem **Tank** | Best Talent Setup **Vitality / Tenacity / Concussive Blast** | Best Spell **Flicker** | Current Tier **A-/B+** | Carry Potential **6/10** | Difficulty **8/10** | Overall Power **7/10**
+
+---
+
+# Argus
+
+Argus is a scaling split-lane bruiser whose entire threat window is his ultimate, **Eternal Evil**, which removes debuffs, grants death immunity, and converts his damage dealt during the state into HP afterward. His passive, **Warmonger**, is also core to his identity because his charged attacks and energy flow determine whether he can threaten the lane or actually stick a target. ([Mobile Legends Wiki][5])
+
+**Role & best position:** EXP Lane.
+**Lane priority:** Medium.
+**Win condition:** Survive early, hit your item breakpoint, then force side-lane duels and late-game tower pressure.
+**Strengths:** anti-burst ult, strong cleanup, strong split pressure, excellent into teams that mismanage cooldowns.
+**Weaknesses:** low value when ult is down, predictable engage, heavy reliance on uptime.
+**Power spikes:** level 4, first attack-speed item, ultimate availability.
+**Scaling:** Early 4 / Mid 7 / Late 9.
+**Passive & skill synergy:** his passive and ult reward extended combat, so attack speed and survivability matter more than pure burst greed. ([Mobile Legends Wiki][5])
+
+**Mechanics ratings**
+Damage 7 | Burst 6 | DPS 8 | Mobility 6 | Sustain 8 | Durability 7 | Crowd Control 4 | Teamfight Impact 6 | Objective Control 7 | Split Push 9 | Carry Potential 7 | Difficulty 6
+
+### Builds
+
+**1. Core Build**
+Tough Boots → Haas’s Claws → Demon Hunter Sword → Golden Staff → Malefic Roar → Immortality
+This is the best “actually win fights after ult” setup: sustained damage, healing, and one revive slot.
+
+**2. Max Damage Build**
+Tough Boots → Haas’s Claws → Demon Hunter Sword → Golden Staff → Blade of Despair → Malefic Roar
+More kill pressure, but less forgiving if your ult timing is bad.
+
+**3. Solo Queue Build**
+Tough Boots → Haas’s Claws → Demon Hunter Sword → Wind of Nature → Malefic Roar → Immortality
+Safer because solo queue often forces you to carry without reliable peel.
+
+**4. Competitive Build**
+Tough Boots → Haas’s Claws → Demon Hunter Sword → Golden Staff → Immortality → Malefic Roar
+Best when the draft wants a split-lane threat that can still join a fight.
+
+**5. Anti-Tank Build**
+Tough Boots → Demon Hunter Sword → Golden Staff → Sea Halberd → Malefic Roar → Blade of Despair
+This is the version for tank-heavy teams and healing front lines.
+
+**6. Anti-Burst Build**
+Tough Boots → Wind of Nature → Rose Gold Meteor → Immortality → Demon Hunter Sword → Golden Staff
+The goal is to survive long enough for Eternal Evil to matter.
+
+**7. Anti-CC Build**
+Tough Boots → Wind of Nature → Immortality → Queen’s Wings → Demon Hunter Sword → Golden Staff
+You are not becoming CC immune; you are surviving the chain and still dealing damage.
+
+**8. Snowball Build**
+Tough Boots → Haas’s Claws → Demon Hunter Sword → Golden Staff → Blade of Despair → Malefic Roar
+Best only when the game is already opening up for split pressure.
+
+**9. Late Game Build**
+Tough Boots → Demon Hunter Sword → Golden Staff → Malefic Roar → Wind of Nature → Immortality
+Late Argus needs mixed offense and one defensive slot or he dies before the ult window pays off.
+
+### Build ratings
+
+Core: 7 / 8 / 7 / 9 / 7
+Max Damage: 9 / 5 / 6 / 6 / 8
+Solo Queue: 7 / 8 / 7 / 8 / 7
+Competitive: 7 / 8 / 7 / 9 / 7
+Anti-Tank: 8 / 6 / 7 / 8 / 8
+Anti-Burst: 6 / 10 / 6 / 8 / 7
+Anti-CC: 6 / 9 / 6 / 7 / 6
+Snowball: 9 / 5 / 6 / 6 / 8
+Late Game: 8 / 8 / 6 / 9 / 7
+
+### Emblems
+
+**Top 3**
+
+1. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best overall because Argus wants long fight value.
+2. **Marksman** — Fatal / Weapon Master / Quantum Charge. Best if you want more tower and DPS scaling.
+3. **Assassin** — Rupture / Weapons Master / Killing Spree. Best aggressive cleanup route.
+
+**Best Overall Emblem:** Fighter
+**Aggressive Emblem:** Assassin
+**Defensive Emblem:** Fighter
+**Scaling Emblem:** Marksman
+
+### Battle spells
+
+1. **Vengeance** — best overall for making ult trades last longer.
+2. **Flicker** — second best for reach and split-lane escapes.
+3. **Retribution** — situational jungle only.
+
+### Matchups
+
+**Strong against:** burst-heavy heroes, teams that blow cooldowns early, poorly coordinated dives.
+**Weak against:** anti-heal, hard kite, and suppression.
+**Hard counters:** Kaja, Franco, Valir, high-CC front lines, strong anti-heal drafts.
+**Best allies:** healers, peel supports, setup tanks, vision roamers.
+**Ban priorities:** Kaja, Franco, anti-heal heavy lane counters.
+
+### Advanced notes
+
+Hidden synergy: his ultimate is strongest when the enemy believes they already won the trade and overcommits into the death-immunity window. Common mistake: building him like a pure crit hero and expecting him to function outside his ult. The better route is sustained attack speed with one revive/survival layer. ([Mobile Legends Wiki][5])
+
+**Meta verification:** The popular crit-first Argus approach is usually too greedy; the stronger alternative is **DHS + Golden Staff + one survival item** so his ult actually converts into map pressure.
+**Final verdict:** Best Build **Core** | Best Emblem **Fighter** | Best Talent Setup **Vitality / Festival of Blood / Brave Smite** | Best Spell **Vengeance** | Current Tier **B/A-** | Carry Potential **7/10** | Difficulty **6/10** | Overall Power **6/10**
+
+---
+
+# Dyrroth
+
+Dyrroth is the cleanest early-game anti-frontline fighter in this group. His passive **Circle Strike** can crit and benefit from lifesteal, his second skill strips physical defense, and his patch history shows two important advantages for current play: a 1.6.50 mobility/access improvement on Skill 2 and a 2.1.67 laning-phase adjustment aimed at Skill 1 power curve. That keeps him relevant as a lane bully even in a mage-heavy patch cycle. ([Mobile Legends Wiki][6])
+
+**Role & best position:** EXP Lane, Jungle niche.
+**Lane priority:** High early.
+**Win condition:** Win the first few trades, reduce enemy armor, then convert that lead into turret pressure or objective fights.
+**Strengths:** huge early damage, strong tank punish, self-heal, simple kill pattern.
+**Weaknesses:** falls off if he cannot convert early lead, can be kited, hates being forced into long disengaged fights.
+**Power spikes:** level 2, level 4, first item, two-item armor shred.
+**Scaling:** Early 10 / Mid 7 / Late 5.
+**Passive & skill synergy:** passive crit/lifesteal plus defense reduction means he gets paid for attacking the right target, not for fancy combo theory. ([Mobile Legends Wiki][6])
+
+**Mechanics ratings**
+Damage 9 | Burst 8 | DPS 7 | Mobility 6 | Sustain 7 | Durability 6 | Crowd Control 4 | Teamfight Impact 6 | Objective Control 6 | Split Push 7 | Carry Potential 7 | Difficulty 5
+
+### Builds
+
+**1. Core Build**
+Tough Boots → War Axe → Hunter Strike → Malefic Roar → Queen’s Wings → Immortality
+Best balance of damage, chase, and enough survival to keep fighting after the first dive.
+
+**2. Max Damage Build**
+Tough Boots → War Axe → Hunter Strike → Blade of Despair → Malefic Roar → Sky Piercer
+Best when you are already ahead and want pure kill pressure.
+
+**3. Solo Queue Build**
+Tough Boots → War Axe → Hunter Strike → Queen’s Wings → Malefic Roar → Immortality
+Safer when teammates do not reliably follow your engage timing.
+
+**4. Competitive Build**
+Tough Boots → War Axe → Hunter Strike → Malefic Roar → Queen’s Wings → Immortality
+This is the most stable “frontline breaker” version.
+
+**5. Anti-Tank Build**
+Tough Boots → War Axe → Hunter Strike → Malefic Roar → Sea Halberd → Blade of Despair
+This is the best anti-frontline setup; Dyrroth’s kit already wants to punish armor stacking.
+
+**6. Anti-Burst Build**
+Tough Boots → Athena’s Shield → Queen’s Wings → Immortality → War Axe → Malefic Roar
+For matches where you need to survive the counterburst after diving.
+
+**7. Anti-CC Build**
+Tough Boots → Brute Force Breastplate → Queen’s Wings → Immortality → War Axe → Malefic Roar
+The goal is to keep moving through the fight long enough for your defense shred to matter.
+
+**8. Snowball Build**
+Tough Boots → War Axe → Hunter Strike → Blade of Despair → Sky Piercer → Malefic Roar
+This is the “end the lane and end the game” setup.
+
+**9. Late Game Build**
+Tough Boots → War Axe → Hunter Strike → Malefic Roar → Queen’s Wings → Immortality
+Late Dyrroth needs durability because his burst window gets easier to read.
+
+### Build ratings
+
+Core: 9 / 8 / 7 / 9 / 8
+Max Damage: 10 / 4 / 6 / 6 / 9
+Solo Queue: 8 / 9 / 7 / 9 / 8
+Competitive: 8 / 9 / 8 / 10 / 8
+Anti-Tank: 9 / 7 / 7 / 9 / 8
+Anti-Burst: 7 / 10 / 7 / 8 / 7
+Anti-CC: 7 / 9 / 7 / 8 / 7
+Snowball: 10 / 4 / 6 / 6 / 9
+Late Game: 7 / 8 / 7 / 8 / 7
+
+### Emblems
+
+**Top 3**
+
+1. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best overall because Dyrroth wants lane sustain and all-in threat.
+2. **Assassin** — Rupture / Weapons Master / Killing Spree. Best aggressive snowball option.
+3. **Tank** — Vitality / Tenacity / Concussive Blast. Best if you need to frontline longer.
+
+**Best Overall Emblem:** Fighter
+**Aggressive Emblem:** Assassin
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Fighter
+
+### Battle spells
+
+1. **Flicker** — best overall for reach and finishing.
+2. **Execute** — second best for lane kill conversion.
+3. **Retribution** — situational if you jungle.
+
+### Matchups
+
+**Strong against:** tanks, bruisers, low-armor targets, early skirmishers.
+**Weak against:** ranged poke, peel-heavy teams, and late-game kite.
+**Hard counters:** Kaja, Franco, Valir, heavy anti-heal, long-range mages.
+**Best allies:** setup tanks, dive supports, and fast-follow assassins.
+**Ban priorities:** Kaja, Franco, Valir.
+
+### Advanced notes
+
+Hidden synergy: the 2.1.67 lane adjustment to Skill 1 and the earlier Skill 2 access change make him better at forcing early lane tempo than most fighters expect. Common mistake: building him like a full burst assassin and then losing all value once the first target survives. The stronger version is a **bruiser-leaning shredder** that stays relevant after the first kill attempt. ([Liquipedia][7])
+
+**Meta verification:** Pure burst Dyrroth is playable, but the stronger default in the current patch is **War Axe + Hunter Strike + Malefic Roar with one defensive bridge**.
+**Final verdict:** Best Build **Core** | Best Emblem **Fighter** | Best Talent Setup **Vitality / Festival of Blood / Brave Smite** | Best Spell **Flicker** | Current Tier **A** | Carry Potential **7/10** | Difficulty **5/10** | Overall Power **7/10**
+
+[1]: https://liquipedia.net/mobilelegends/Portal%3APatches?utm_source=chatgpt.com "Patches - Liquipedia Mobile Legends: Bang Bang Wiki"
+[2]: https://mobile-legends.fandom.com/wiki/Paquito?utm_source=chatgpt.com "Paquito | Mobile Legends: Bang Bang Wiki - Fandom"
+[3]: https://liquipedia.net/mobilelegends/Patch_2.1.67a?utm_source=chatgpt.com "Patch 2.1.67a - Liquipedia Mobile Legends"
+[4]: https://mobile-legends.fandom.com/wiki/Chou?utm_source=chatgpt.com "Chou | Mobile Legends: Bang Bang Wiki - Fandom"
+[5]: https://mobile-legends.fandom.com/wiki/Argus?utm_source=chatgpt.com "Argus | Mobile Legends: Bang Bang Wiki - Fandom"
+[6]: https://mobile-legends.fandom.com/wiki/Dyrroth?utm_source=chatgpt.com "Dyrroth | Mobile Legends: Bang Bang Wiki | Fandom"
+[7]: https://liquipedia.net/mobilelegends/Patch_2.1.67?utm_source=chatgpt.com "Patch 2.1.67 - Liquipedia Mobile Legends: Bang Bang Wiki"
+
+Patch context: **2.1.67a is the latest patch**, following 2.1.67. That matters here because the live environment still rewards heroes who create teamfight denial, force bad spacing, and survive long enough to cast twice; it also means **Marcel is a real, newly released Support/Crowd Control hero**, not a typo. ([Liquipedia][1])
+
+---
+
+## Diggie
+
+Diggie’s core identity is anti-CC and post-death value: the official page says he reverts to egg form after death and keeps moving with new skills, which is why he stays relevant even when focused. In the current CC-heavy support meta, his value is denial, vision, and anti-engage rather than raw healing or damage. ([mobilelegends.com][2])
+
+**Role / Best Position:** Roam Support.
+**Lane Priority:** High in draft value, low in solo lane value.
+**Win Condition:** Deny enemy hard-engage, protect your carry, and force bad sets with bombs + ult.
+**Strengths:** best anti-CC in the pool, great vision, annoying lane poke, huge teamfight swing.
+**Weaknesses:** squishy, low direct carry damage, punished if ult is mistimed.
+**Power Spikes:** level 4, first CDR item, first major objective fight.
+**Scaling:** Early 7 / Mid 9 / Late 8.
+**Passive & Skill Synergy:** death-value plus bomb zoning means CDR and utility are worth more than greed. ([mobilelegends.com][2])
+
+**Mechanics Ratings:** Damage 5 | Burst 4 | DPS 4 | Mobility 6 | Sustain 3 | Durability 3 | Crowd Control 9 | Teamfight Impact 10 | Objective Control 7 | Split Push 2 | Carry Potential 7 | Difficulty 6
+
+### Builds
+
+1. **Core:** Tough Boots → Dominance Ice → Fleeting Time → Enchanted Talisman → Immortality → Oracle. Best all-around because it solves CC denial, ult uptime, and survival.
+2. **Max Damage:** Arcane Boots → Glowing Wand → Genius Wand → Holy Crystal → Divine Glaive → Blood Wings. Only for cheese poke.
+3. **Solo Queue:** Tough Boots → Enchanted Talisman → Dominance Ice → Immortality → Oracle → Fleeting Time. More forgiving when teams are messy.
+4. **Competitive:** Tough Boots → Dominance Ice → Fleeting Time → Immortality → Oracle → Antique Cuirass. Best for coordinated counter-engage.
+5. **Anti-Tank:** Tough Boots → Dominance Ice → Glowing Wand → Necklace of Durance → Fleeting Time → Immortality.
+6. **Anti-Burst:** Tough Boots → Athena’s Shield → Immortality → Oracle → Dominance Ice → Fleeting Time.
+7. **Anti-CC:** Tough Boots → Dominance Ice → Immortality → Oracle → Antique Cuirass → Fleeting Time.
+8. **Snowball:** Arcane Boots → Glowing Wand → Genius Wand → Fleeting Time → Immortality → Oracle.
+9. **Late Game:** Tough Boots → Dominance Ice → Fleeting Time → Oracle → Immortality → Antique Cuirass.
+
+**Build ratings:**
+Core 5/9/10/10/8
+Max 8/3/6/5/6
+Solo 5/8/8/9/7
+Comp 5/9/10/10/7
+Anti-Tank 5/8/9/9/7
+Anti-Burst 4/10/9/8/7
+Anti-CC 5/9/10/10/7
+Snowball 8/4/7/6/7
+Late 5/9/10/10/7
+
+### Emblems
+
+1. **Support** — Agility / Pull Yourself Together / Focusing Mark. Best overall.
+2. **Mage** — Flow / Observation / Impure Rage. Best aggressive poke.
+3. **Tank** — Vitality / Tenacity / Concussive Blast. Best defensive fallback.
+
+**Best Overall Emblem:** Support
+**Aggressive Emblem:** Mage
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Support
+
+### Battle Spells
+
+1. **Flicker** — best for survival and angle control.
+2. **Purify** — second best if the enemy hard-focuses CC.
+3. **Sprint** — situational for map pressure and repositioning.
+
+### Matchups
+
+**Strong against:** Tigreal, Atlas, Minotaur, Ruby-style set comps, dive-heavy CC drafts.
+**Weak against:** pure burst pickoffs and long-range poke.
+**Hard counters:** heroes that kill him before ult value, especially fast divers.
+**Best allies:** Claude, Wanwan, Paquito, Valentina, Lylia.
+**Ban priorities:** Atlas, Tigreal, Minotaur if your team is drafting set-dependent carries.
+
+**Advanced notes:** Hidden synergy is that dead Diggie still scouts and still threatens counterplay. The biggest build mistake is trying to turn him into a fake mage-carry; the best version is almost always **CDR + anti-engage + one survival item**.
+
+**Final verdict:** Best Build **Core** | Best Emblem **Support** | Best Talent Setup **Agility / Pull Yourself Together / Focusing Mark** | Best Spell **Flicker** | Current Tier **S/A** | Carry Potential **7/10** | Difficulty **6/10** | Overall Power **8/10**
+
+---
+
+## Floryn
+
+Floryn is the global sustain support. The official and wiki sources state she can heal allies anywhere on the map, and her ultimate removes healing/shield reduction and grants protection from those effects, which is why she wins by keeping a carry alive through burst and anti-heal windows. ([mobilelegends.com][3])
+
+**Role / Best Position:** Roam Support.
+**Lane Priority:** High in draft, low in mechanics demand.
+**Win Condition:** Keep the strongest diver or carry alive long enough to snowball fights.
+**Strengths:** global save, anti-heal removal, multi-target value, reliable CC.
+**Weaknesses:** low personal defense, needs teammates worth healing.
+**Power Spikes:** level 4, first healing item, first teamfight ult.
+**Scaling:** Early 7 / Mid 8 / Late 9.
+**Passive & Skill Synergy:** her heal and global ult are strongest when itemized for healing power, CDR, and enough bulk to survive the first dive. ([mobilelegends.com][3])
+
+**Mechanics Ratings:** Damage 4 | Burst 3 | DPS 3 | Mobility 4 | Sustain 10 | Durability 4 | Crowd Control 5 | Teamfight Impact 10 | Objective Control 5 | Split Push 2 | Carry Potential 7 | Difficulty 5
+
+### Builds
+
+1. **Core:** Demon Boots → Flask of the Oasis → Fleeting Time → Oracle → Immortality → Necklace of Durance. Best all-around because it maximizes heal value and ult uptime.
+2. **Max Damage:** Arcane Boots → Glowing Wand → Ice Queen Wand → Genius Wand → Holy Crystal → Divine Glaive. Only for off-meta poke.
+3. **Solo Queue:** Demon Boots → Flask of the Oasis → Oracle → Fleeting Time → Immortality → Dominance Ice. More forgiving when teammates are messy.
+4. **Competitive:** Demon Boots → Flask of the Oasis → Fleeting Time → Oracle → Immortality → Dominance Ice. Best coordinated-safety version.
+5. **Anti-Tank:** Demon Boots → Flask of the Oasis → Necklace of Durance → Oracle → Fleeting Time → Immortality.
+6. **Anti-Burst:** Tough Boots → Athena’s Shield → Immortality → Oracle → Fleeting Time → Dominance Ice.
+7. **Anti-CC:** Tough Boots → Immortality → Oracle → Dominance Ice → Antique Cuirass → Fleeting Time.
+8. **Snowball:** Demon Boots → Flask of the Oasis → Fleeting Time → Oracle → Necklace of Durance → Immortality.
+9. **Late Game:** Demon Boots → Flask of the Oasis → Oracle → Fleeting Time → Immortality → Dominance Ice.
+
+**Build ratings:**
+Core 4/8/10/10/7
+Max 7/3/5/5/5
+Solo 4/8/9/9/7
+Comp 4/8/10/10/7
+Anti-Tank 4/8/9/9/6
+Anti-Burst 4/10/8/8/6
+Anti-CC 4/9/8/8/6
+Snowball 4/7/8/7/7
+Late 4/8/10/10/7
+
+### Emblems
+
+1. **Support** — Agility / Pull Yourself Together / Focusing Mark. Best overall.
+2. **Support** — Agility / Pull Yourself Together / Wilderness Blessing. Best for rotation-heavy games.
+3. **Mage** — Flow / Observation / Impure Rage. Best if you need more lane poke.
+
+**Best Overall Emblem:** Support
+**Aggressive Emblem:** Mage
+**Defensive Emblem:** Support
+**Scaling Emblem:** Support
+
+### Battle Spells
+
+1. **Flicker** — best overall.
+2. **Purify** — second best into hard lockdown.
+3. **Aegis** — situational if your team lacks shields.
+
+### Matchups
+
+**Strong against:** burst dive, anti-heal lanes, teams that need a kill window to win.
+**Weak against:** long-range poke and repeated pickoffs.
+**Hard counters:** Baxia-style anti-heal, assassins that reach backline fast.
+**Best allies:** Paquito, Ling, Claude, Wanwan, Argus.
+**Ban priorities:** Baxia and strong dive assassins.
+
+**Advanced notes:** Her strongest hidden value is anti-heal removal on the ultimate, which is more important than her raw healing number in this patch environment. The main mistake is treating her like a passive afk healer; she wins more when she stays close enough to matter and times ult proactively. ([LDShop][4])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Support** | Best Talent Setup **Agility / Pull Yourself Together / Focusing Mark** | Best Spell **Flicker** | Current Tier **A/S** | Carry Potential **7/10** | Difficulty **5/10** | Overall Power **8/10**
+
+---
+
+## Kaja
+
+Kaja is a suppression pickoff hero. Official sources show **Wrath Sanction** every 6 seconds, a magic basic attack with HP-scaling damage and a paralyze, and the lore/ability page describes him as the Nazar leader who coils, suppresses, and drags targets. That makes him strongest as a roaming pick tool or lane bully with tanky utility. ([mobilelegends.com][5])
+
+**Role / Best Position:** Roam Support/Fighter, with EXP as a niche.
+**Lane Priority:** Medium.
+**Win Condition:** Catch one priority target, suppress them, and convert into a kill or objective.
+**Strengths:** single-target suppression, early poke, surprisingly good chase.
+**Weaknesses:** clunky if built too greedy, falls behind if he misses picks.
+**Power Spikes:** level 4, first defensive item, first successful suppression pick.
+**Scaling:** Early 8 / Mid 7 / Late 6.
+**Passive & Skill Synergy:** HP, CDR, and movement matter because his damage and catch pattern are tied to repeated punishment rather than one combo. ([mobilelegends.com][5])
+
+**Mechanics Ratings:** Damage 5 | Burst 6 | DPS 5 | Mobility 6 | Sustain 6 | Durability 7 | Crowd Control 10 | Teamfight Impact 8 | Objective Control 5 | Split Push 3 | Carry Potential 6 | Difficulty 7
+
+### Builds
+
+1. **Core:** Tough Boots → Thunder Belt → Dominance Ice → Fleeting Time → Oracle → Immortality. Best overall because it solves the “I need to reach and keep the target” problem.
+2. **Max Damage:** Arcane Boots → Clock of Destiny → Genius Wand → Divine Glaive → Holy Crystal → Blood Wings. Best if you want hybrid burst, but riskier.
+3. **Solo Queue:** Tough Boots → Thunder Belt → Dominance Ice → Oracle → Immortality → Fleeting Time. Safer and more consistent.
+4. **Competitive:** Tough Boots → Thunder Belt → Dominance Ice → Fleeting Time → Oracle → Immortality. Best for coordinated pick play.
+5. **Anti-Tank:** Tough Boots → Thunder Belt → Dominance Ice → Necklace of Durance → Oracle → Immortality.
+6. **Anti-Burst:** Tough Boots → Athena’s Shield → Oracle → Immortality → Dominance Ice → Thunder Belt.
+7. **Anti-CC:** Tough Boots → Oracle → Immortality → Dominance Ice → Antique Cuirass → Thunder Belt.
+8. **Snowball:** Tough Boots → Thunder Belt → Fleeting Time → Dominance Ice → Oracle → Immortality.
+9. **Late Game:** Tough Boots → Thunder Belt → Dominance Ice → Oracle → Immortality → Fleeting Time.
+
+**Build ratings:**
+Core 5/9/8/9/7
+Max 9/4/6/5/6
+Solo 5/8/8/9/6
+Comp 5/8/9/10/6
+Anti-Tank 5/8/8/8/6
+Anti-Burst 4/10/8/8/5
+Anti-CC 4/9/8/8/5
+Snowball 5/8/7/7/7
+Late 5/8/8/9/6
+
+### Emblems
+
+1. **Support** — Agility / Pull Yourself Together / Focusing Mark. Best overall.
+2. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best if you want lane sustain.
+3. **Tank** — Vitality / Tenacity / Concussive Blast. Best defensive setup.
+
+**Best Overall Emblem:** Support
+**Aggressive Emblem:** Fighter
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Support
+
+### Battle Spells
+
+1. **Flicker** — best overall for suppression angles.
+2. **Flame Retribution** — situational if you jungle.
+3. **Execute** — situational for pick finish.
+
+### Matchups
+
+**Strong against:** squishy cores, dash-reliant carries, greedy backlines.
+**Weak against:** cleanse, anti-dive, and long-range zoning.
+**Hard counters:** Diggie, Valir, Franco, Khufra, Minsitthar.
+**Best allies:** dive assassins, burst mages, hard engage tanks.
+**Ban priorities:** Diggie, Khufra, Valir.
+
+**Advanced notes:** The biggest build mistake is full damage Kaja with no survivability; that version often dies before suppression value is realized. In this patch, the strongest Kaja is still a **utility bruiser-roam**, not a fake mage assassin. ([Reddit][6])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Support** | Best Talent Setup **Agility / Pull Yourself Together / Focusing Mark** | Best Spell **Flicker** | Current Tier **A-/B+** | Carry Potential **6/10** | Difficulty **7/10** | Overall Power **7/10**
+
+---
+
+## Uranus
+
+Uranus is the pure sustain tank here. The official page says every time he takes damage he gains **Radiance** stacks that restore HP over time, so his build should maximize regen uptime, resistances, and anti-burst survival rather than damage greed. ([mobilelegends.com][7])
+
+**Role / Best Position:** EXP Lane tank.
+**Lane Priority:** Medium-high.
+**Win Condition:** Stay unkillable, soak pressure, and force the enemy to waste cooldowns into your regen.
+**Strengths:** absurd sustain, lane stability, hard-to-remove side pressure.
+**Weaknesses:** anti-heal, hard burst, limited kill pressure if behind.
+**Power Spikes:** first defensive item, level 4, full Radiance stacks in extended fights.
+**Scaling:** Early 7 / Mid 9 / Late 8.
+**Passive & Skill Synergy:** every item that extends survivability or regen effectiveness compounds his passive. ([mobilelegends.com][7])
+
+**Mechanics Ratings:** Damage 4 | Burst 3 | DPS 4 | Mobility 5 | Sustain 10 | Durability 10 | Crowd Control 5 | Teamfight Impact 8 | Objective Control 6 | Split Push 7 | Carry Potential 6 | Difficulty 4
+
+### Builds
+
+1. **Core:** Tough Boots → Enchanted Talisman → Oracle → Dominance Ice → Antique Cuirass → Immortality. Best overall because it solves mana, sustain, and long-fight tanking.
+2. **Max Damage:** Tough Boots → Thunder Belt → Glowing Wand → Ice Queen Wand → Oracle → Immortality.
+3. **Solo Queue:** Tough Boots → Oracle → Dominance Ice → Antique Cuirass → Immortality → Enchanted Talisman.
+4. **Competitive:** Tough Boots → Enchanted Talisman → Oracle → Dominance Ice → Immortality → Antique Cuirass.
+5. **Anti-Tank:** Tough Boots → Oracle → Dominance Ice → Thunder Belt → Glowing Wand → Antique Cuirass.
+6. **Anti-Burst:** Tough Boots → Athena’s Shield → Oracle → Immortality → Antique Cuirass → Dominance Ice.
+7. **Anti-CC:** Tough Boots → Oracle → Immortality → Antique Cuirass → Dominance Ice → Guardian Helmet.
+8. **Snowball:** Tough Boots → Enchanted Talisman → Oracle → Thunder Belt → Dominance Ice → Immortality.
+9. **Late Game:** Tough Boots → Oracle → Dominance Ice → Immortality → Antique Cuirass → Guardian Helmet.
+
+**Build ratings:**
+Core 4/10/10/10/6
+Max 7/7/6/6/5
+Solo 4/10/9/9/6
+Comp 4/10/9/10/6
+Anti-Tank 5/10/9/9/6
+Anti-Burst 4/10/9/8/6
+Anti-CC 4/10/8/8/5
+Snowball 5/8/8/7/6
+Late 4/10/9/10/6
+
+### Emblems
+
+1. **Tank** — Vitality / Tenacity / Concussive Blast. Best overall.
+2. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best if you want more lane pressure.
+3. **Support** — Agility / Pull Yourself Together / Focusing Mark. Best utility option.
+
+**Best Overall Emblem:** Tank
+**Aggressive Emblem:** Fighter
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Tank
+
+### Battle Spells
+
+1. **Vengeance** — best overall.
+2. **Flicker** — second best for spacing and engage.
+3. **Sprint** — situational for chase and disengage.
+
+### Matchups
+
+**Strong against:** poke lanes, short-range comps, low-burst teams.
+**Weak against:** anti-heal and hard burst.
+**Hard counters:** Baxia-style anti-regen, true damage, heavy burst mages.
+**Best allies:** AoE set tanks, healers, scalers that want time.
+**Ban priorities:** Baxia, high-burst assassins, anti-heal enablers.
+
+**Advanced notes:** Uranus wins by making the opponent’s damage inefficient. The common mistake is building him too greedily for HP alone; **Oracle + real resistances** is stronger than flat HP stacking when the enemy has mixed damage.
+
+**Final verdict:** Best Build **Core** | Best Emblem **Tank** | Best Talent Setup **Vitality / Tenacity / Concussive Blast** | Best Spell **Vengeance** | Current Tier **A** | Carry Potential **6/10** | Difficulty **4/10** | Overall Power **7/10**
+
+---
+
+## Gloo
+
+Gloo’s official gameplay text says he uses **1st + 2nd skill** to close in, immobilize, then stack more sticky marks, and eventually attach to the enemy with his ultimate. That makes him a lane bully/tank who wins by sticking to one target and denying movement. ([mobilelegends.com][8])
+
+**Role / Best Position:** EXP Lane tank.
+**Lane Priority:** High.
+**Win Condition:** Force immobilization, attach, and create a permanent dive threat on one enemy core.
+**Strengths:** sticky engage, strong anti-carry, difficult to dislodge, great skirmish control.
+**Weaknesses:** less value if enemies can disengage cleanly; anti-heal and burst hurt.
+**Power Spikes:** level 4, first tank item, first successful attach.
+**Scaling:** Early 8 / Mid 8 / Late 7.
+**Passive & Skill Synergy:** HP, cooldown, and resistances all increase the value of staying attached and re-entering fights. ([mobilelegends.com][8])
+
+**Mechanics Ratings:** Damage 4 | Burst 3 | DPS 4 | Mobility 5 | Sustain 9 | Durability 9 | Crowd Control 8 | Teamfight Impact 8 | Objective Control 6 | Split Push 6 | Carry Potential 6 | Difficulty 6
+
+### Builds
+
+1. **Core:** Tough Boots → Oracle → Dominance Ice → Antique Cuirass → Immortality → Guardian Helmet. Best overall because it lets Gloo stay glued to a target and live through the response.
+2. **Max Damage:** Tough Boots → Thunder Belt → Glowing Wand → Ice Queen Wand → Oracle → Immortality.
+3. **Solo Queue:** Tough Boots → Oracle → Dominance Ice → Immortality → Antique Cuirass → Thunder Belt.
+4. **Competitive:** Tough Boots → Dominance Ice → Oracle → Immortality → Antique Cuirass → Guardian Helmet.
+5. **Anti-Tank:** Tough Boots → Dominance Ice → Thunder Belt → Glowing Wand → Oracle → Immortality.
+6. **Anti-Burst:** Tough Boots → Athena’s Shield → Oracle → Immortality → Antique Cuirass → Dominance Ice.
+7. **Anti-CC:** Tough Boots → Oracle → Immortality → Antique Cuirass → Dominance Ice → Guardian Helmet.
+8. **Snowball:** Tough Boots → Thunder Belt → Oracle → Dominance Ice → Immortality → Guardian Helmet.
+9. **Late Game:** Tough Boots → Oracle → Dominance Ice → Immortality → Guardian Helmet → Antique Cuirass.
+
+**Build ratings:**
+Core 4/10/9/10/6
+Max 7/7/6/6/5
+Solo 4/10/9/9/6
+Comp 4/10/9/10/6
+Anti-Tank 5/9/8/8/6
+Anti-Burst 4/10/8/8/5
+Anti-CC 4/10/8/8/5
+Snowball 5/8/8/7/6
+Late 4/10/9/10/6
+
+### Emblems
+
+1. **Tank** — Vitality / Tenacity / Concussive Blast. Best overall.
+2. **Fighter** — Vitality / Festival of Blood / Brave Smite. Best if you want more lane bullying.
+3. **Support** — Agility / Pull Yourself Together / Focusing Mark. Utility fallback.
+
+**Best Overall Emblem:** Tank
+**Aggressive Emblem:** Fighter
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Tank
+
+### Battle Spells
+
+1. **Flicker** — best overall for attach angles.
+2. **Vengeance** — second best when frontlining.
+3. **Execute** — situational for kill finish.
+
+### Matchups
+
+**Strong against:** immobile carries, front-to-back drafts, isolated targets.
+**Weak against:** repeated disengage, long-range poke, anti-heal.
+**Hard counters:** Baxia, Valir, Diggie, burst assassins that can delete him before attach.
+**Best allies:** dive assassins, set tanks, burst mids.
+**Ban priorities:** Valir, Baxia, Diggie.
+
+**Advanced notes:** Gloo’s value rises when the enemy has only one carry worth locking down. The common mistake is overbuilding damage; he is strongest when he becomes impossible to remove and keeps one target permanently uncomfortable.
+
+**Final verdict:** Best Build **Core** | Best Emblem **Tank** | Best Talent Setup **Vitality / Tenacity / Concussive Blast** | Best Spell **Flicker** | Current Tier **A** | Carry Potential **6/10** | Difficulty **6/10** | Overall Power **7/10**
+
+---
+
+## Marcel
+
+Marcel is the newest hero in this batch, and the official site lists him as a **Support / Crowd Control** hero with **Platinum Snap**. The official hero page also says his basic attacks scale with **Physical Attack and Magic Defense**, and patch 2.1.67 adjusted his Ultimate to reduce negative effects on allies. That makes him a hybrid utility support whose best builds should value survivability, uptime, and HP-to-defense style efficiency more than pure damage greed. ([mobilelegends.com][9])
+
+**Role / Best Position:** Roam Support.
+**Lane Priority:** High because he is new and flexible.
+**Win Condition:** Create safe zones with Platinum Snap, then use CC to let your core move freely.
+**Strengths:** team utility, ally protection, scaling hybrid defenses, strong setup.
+**Weaknesses:** still new, likely clunky if overbuilt for damage, depends on ally follow-up.
+**Power Spikes:** level 4, first CDR/defensive item, first ally-protection ult.
+**Scaling:** Early 7 / Mid 8 / Late 8.
+**Passive & Skill Synergy:** because his basic attacks scale hybrid and HP converts into hybrid defense, HP/CDR/utility items are naturally efficient. ([mobilelegends.com][10])
+
+**Mechanics Ratings:** Damage 5 | Burst 4 | DPS 5 | Mobility 6 | Sustain 6 | Durability 7 | Crowd Control 8 | Teamfight Impact 9 | Objective Control 5 | Split Push 2 | Carry Potential 7 | Difficulty 6
+
+### Builds
+
+1. **Core:** Tough Boots → Dominance Ice → Oracle → Fleeting Time → Immortality → Antique Cuirass. Best all-around because it maximizes uptime and teamfight protection.
+2. **Max Damage:** Arcane Boots → Genius Wand → Glowing Wand → Holy Crystal → Divine Glaive → Blood Wings. Only if you’re intentionally turning him into a poke support.
+3. **Solo Queue:** Tough Boots → Dominance Ice → Oracle → Immortality → Fleeting Time → Antique Cuirass. More forgiving when teammates do not use your setup perfectly.
+4. **Competitive:** Tough Boots → Dominance Ice → Fleeting Time → Oracle → Immortality → Antique Cuirass. Best for coordinated engage/save play.
+5. **Anti-Tank:** Tough Boots → Dominance Ice → Necklace of Durance → Oracle → Fleeting Time → Immortality.
+6. **Anti-Burst:** Tough Boots → Athena’s Shield → Oracle → Immortality → Dominance Ice → Fleeting Time.
+7. **Anti-CC:** Tough Boots → Oracle → Immortality → Dominance Ice → Antique Cuirass → Fleeting Time.
+8. **Snowball:** Tough Boots → Dominance Ice → Fleeting Time → Oracle → Immortality → Necklace of Durance.
+9. **Late Game:** Tough Boots → Dominance Ice → Oracle → Fleeting Time → Immortality → Antique Cuirass.
+
+**Build ratings:**
+Core 5/9/9/10/7
+Max 8/3/5/5/5
+Solo 5/9/9/9/7
+Comp 5/9/10/10/7
+Anti-Tank 5/9/9/9/7
+Anti-Burst 4/10/8/8/6
+Anti-CC 5/9/9/9/6
+Snowball 5/8/8/7/7
+Late 5/9/9/10/7
+
+### Emblems
+
+1. **Support** — Agility / Pull Yourself Together / Focusing Mark. Best overall.
+2. **Tank** — Vitality / Tenacity / Concussive Blast. Best defensive fallback.
+3. **Mage** — Flow / Observation / Impure Rage. Best if you want more poke.
+
+**Best Overall Emblem:** Support
+**Aggressive Emblem:** Mage
+**Defensive Emblem:** Tank
+**Scaling Emblem:** Support
+
+### Battle Spells
+
+1. **Flicker** — best overall.
+2. **Purify** — second best versus hard CC.
+3. **Aegis** — situational if your backline needs extra protection.
+
+### Matchups
+
+**Strong against:** dive-heavy comps, allies who need protection, long teamfights.
+**Weak against:** pure burst picks and teams that can kill him before he uses utility.
+**Hard counters:** assassins with fast access and suppression.
+**Best allies:** immobile carries, set tanks, scaling mids.
+**Ban priorities:** strong dive assassins and hard suppression tools.
+
+**Advanced notes:** Marcel’s build should lean into the fact that HP converts into hybrid defense and his ult was explicitly adjusted to be kinder to allies. The common mistake is trying to make him a damage hero first; he is much stronger as a **utility support with survival and cooldown investment**. ([mobilelegends.com][10])
+
+**Final verdict:** Best Build **Core** | Best Emblem **Support** | Best Talent Setup **Agility / Pull Yourself Together / Focusing Mark** | Best Spell **Flicker** | Current Tier **A** | Carry Potential **7/10** | Difficulty **6/10** | Overall Power **7/10**
+
+---
+
+## Meta verification
+
+The common meta instinct on these six is either “full tank” or “full utility.” That is only half-right. **Diggie, Floryn, and Marcel** want CDR plus one survival bridge, **Kaja** wants utility bruiser stats, **Uranus and Gloo** want regeneration plus resistances, and none of them benefit much from greedy damage unless you are intentionally drafting a cheese lane. That is the stronger alternative to the popular one-size-fits-all support builds. ([mobilelegends.com][2])
+
+If you want, I can do the same format next for **Sora**, or I can turn all six support/tank heroes into a single **cheat sheet with only core build, emblem, and spell**.
+
+[1]: https://liquipedia.net/mobilelegends/Portal%3APatches?utm_source=chatgpt.com "Patches - Liquipedia Mobile Legends: Bang Bang Wiki"
+[2]: https://www.mobilelegends.com/hero/detail?channelid=2678784&heroid=48&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[3]: https://www.mobilelegends.com/hero/detail?channelid=2678848&heroid=112&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[4]: https://www.ldshop.gg/blog/guide/mlbb-floryn-guide.html?utm_source=chatgpt.com "MLBB The Latest Floryn Guide: Best Build, Skills, Combo & ..."
+[5]: https://www.mobilelegends.com/hero/detail?heroid=62&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[6]: https://www.reddit.com/r/MobileLegendsGame/comments/1rlmyqm/whats_the_best_build_for_kaja/?utm_source=chatgpt.com "What's the best build for Kaja? : r/MobileLegendsGame"
+[7]: https://www.mobilelegends.com/hero/detail?heroid=59&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[8]: https://www.mobilelegends.com/hero/detail?channelid=2678840&heroid=104&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[9]: https://www.mobilelegends.com/?utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
+[10]: https://www.mobilelegends.com/hero/detail?channelid=3280483&heroid=132&utm_source=chatgpt.com "Mobile Legends: Bang Bang - Heroes and Gameplay Insights"
